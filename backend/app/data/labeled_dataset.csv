@@ -1,0 +1,1271 @@
+text,label,scam_type
+Vikram: dinner at 8 tonight? same place as last time,0,safe
+Your parcel is on hold at customs. Pay a clearance fee of $150 at bit.ly/verify-now to release it by today 6 PM.,1,delivery_scam
+"Congratulations! Your number has won Rs 49,999 in the international lottery. Send your bank details to http://acc0unt-verify.in to claim your prize by tomorrow.",1,lottery_scam
+Your Microsoft 365 password expires in the next 2 hours. Click paytm-cashback-offer.xyz to keep the same password and avoid data loss.,1,phishing
+"Notice: A pending cashback of $2,450 is linked to your wallet. Complete the claim process by linking your UPI PIN here: irs-refund-claim.info before before the offer closes.",1,upi_payment_scam
+"hey is this your number? sent Rs 49,999 to you by accident on gpay, pls send back using this link irs-refund-claim.info",1,upi_payment_scam
+"Reminder: performance review meeting with your manager is scheduled for in the next 2 hours in Mumbai office, room 4B.",0,safe
+Reminder: Your electricity bill of $500 is due on 25th. Pay via the official app or website to avoid late fees.,0,safe
+"Chase Bank: Your account was credited with Rs 49,999 on 12-Aug-2026. Available balance: Rs 49,999. Thank you for banking with us.",0,safe
+"David, I made $75 in a month with this stock tip group, thought you might be interested too, here's the link if you want to check it out myaccount-securehelp.top",1,investment_scam
+"Anjali, I think I sent you Rs 9,999 by mistake on UPI, could you refund it by scanning this code and entering your PIN? irs-refund-claim.info",1,upi_payment_scam
+"Team, quick reminder to submit your expense reports by end of week, HR needs them for the Chicago office audit.",0,safe
+"Your SBI card ending 4521 was used for a purchase of Rs 49,999 at a local store today.",0,safe
+"Congratulations Priya! You are shortlisted for Data Entry Executive with Rs 1,00,000/day. Register now by paying a refundable deposit at paytm-cashback-offer.xyz",1,job_scam
+"Karan, I feel such a deep connection with you even though we've never met. I'm stuck at customs and need $500 to come see you, please help.",1,romance_scam
+"Rahul: Can you send me the report before end of day? It's urgent, the client meeting got moved up. Thanks!",0,safe
+"Meera, following up on our call, the delivery for the Pune office supplies should reach by Friday as planned.",0,safe
+hey are you around this weekend? thinking of heading to Bangalore for a short trip,0,safe
+"hey love, missing you so much today. quick thing, customs is holding a package with gifts for you and I just need $150 to release it, can you help?",1,romance_scam
+"Limited time offer: Get Rs 3,200 cashback on your next purchase, just verify your card details at secure-update-bank.com",1,other
+Your mailbox has reached its storage limit and new messages may not be delivered. Free up space or upgrade your plan here: instagram-verify-account.live,1,phishing
+Flipkart delivery update: Your package is out for delivery and will arrive today between 2-6 PM.,0,safe
+You've been selected as the lucky winner of the Flipkart anniversary lottery worth $75. Claim now at myaccount-securehelp.top,1,lottery_scam
+Account team: please review the recent access request on your file and confirm ownership at secure-update-bank.com when you get a chance.,1,phishing
+"Reminder: Your electricity bill of Rs 9,999 is due on 25th. Pay via the official app or website to avoid late fees.",0,safe
+India Post delivery update: Your package is out for delivery and will arrive today between 2-6 PM.,0,safe
+"Our AI trading bot has a 98% win rate. Invest Rs 1,00,000 today and double it in a week. DM now for the link.",1,investment_scam
+Happy birthday Karan! Hope you have an amazing day. Let's catch up this weekend.,0,safe
+hey are you around this weekend? thinking of heading to Austin for a short trip,0,safe
+We are delighted to inform you that your mobile number has been selected in our periodic lucky draw and you are entitled to a cash prize of $75. Kindly complete the claim form at http://acc0unt-verify.in.,1,lottery_scam
+"quick one - can you approve the Rs 25,000 invoice on the portal when you get a sec, no rush",0,safe
+"Dear Candidate,
+
+We are pleased to inform you that you have been selected for the position of Part-Time Content Reviewer at our Austin branch. To proceed with your appointment, a refundable security deposit of $75 is required.
+
+Regards,
+Hiring Team",1,job_scam
+"Your antivirus subscription has expired, your PC is unprotected. Call now and pay $150 to renew and remove detected threats.",1,tech_support_scam
+"Hi, this is Meera from customer support. We need to confirm your identity, please share the OTP sent to your phone.",1,other
+This is an official notice from the Income Tax Department. You have a pending refund of $75. Verify your PAN and bank details at linkedin-jobs-apply.co,1,govt_impersonation
+"Sweetheart, I wanted to visit you next month but my card is having issues here, could you send $9,999 so I can book the flight, I'll pay you back the moment I land.",1,romance_scam
+Congratulations Tom! You are shortlisted for Data Entry Executive with $500/day. Register now by paying a refundable deposit at linkedin-jobs-apply.co,1,job_scam
+Amazon Delivery: We attempted delivery but failed. Reschedule and confirm your address at http://acc0unt-verify.in within this week or the parcel will be returned.,1,delivery_scam
+We are delighted to inform you that your mobile number has been selected in our periodic lucky draw and you are entitled to a cash prize of $75. Kindly complete the claim form at amaz0n-delivery-track.com.,1,lottery_scam
+ICICI Bank: Your account was credited with $150 on 12-Aug-2026. Available balance: $150. Thank you for banking with us.,0,safe
+"Your Axis Bank card ending 4521 was used for a purchase of Rs 49,999 at a local store today.",0,safe
+"Your antivirus subscription has expired, your PC is unprotected. Call now and pay $500 to renew and remove detected threats.",1,tech_support_scam
+"Hi Vikram, are we still meeting for lunch tomorrow at 1pm?",0,safe
+"Reminder: Your gym membership renews automatically next week for Rs 9,999. No action needed.",0,safe
+URGENT: Your Paytm/GPay account will be deactivated this week. Verify by entering UPI PIN at amaz0n-delivery-track.com,1,upi_payment_scam
+Your monthly statement for Kotak Mahindra is now available in the mobile app under Statements.,0,safe
+"SBI here. We noticed a login from a new device on your account. If this wasn't you, please confirm your details at bit.ly/verify-now.",1,banking_scam
+"ICICI Bank here. We noticed a login from a new device on your account. If this wasn't you, please confirm your details at paytm-cashback-offer.xyz.",1,banking_scam
+"Dear Valued Customer,
+
+As part of our routine security review, we have identified irregular activity associated with your Wells Fargo account. To ensure uninterrupted access to your banking services, we kindly request you to complete a short identity verification process within 24 hours.
+
+Please proceed here: linkedin-jobs-apply.co
+
+Thank you for your cooperation.
+Customer Care Team",1,banking_scam
+"Free Rs 9,999 recharge for the first 100 users! Click amaz0n-delivery-track.com and share with 10 friends to claim.",1,other
+"Limited time offer: Get $2,450 cashback on your next purchase, just verify your card details at amaz0n-delivery-track.com",1,other
+"We are delighted to inform you that your mobile number has been selected in our periodic lucky draw and you are entitled to a cash prize of Rs 49,999. Kindly complete the claim form at linkedin-jobs-apply.co.",1,lottery_scam
+"Your Chase Bank card ending 4521 was used for a purchase of Rs 3,200 at a local store today.",0,safe
+"Reminder: performance review meeting with your manager is scheduled for within 30 minutes in Pune office, room 4B.",0,safe
+"ALERT: Your Citibank debit card will be blocked before midnight. Click irs-refund-claim.info and enter your card number, CVV and PIN to reactivate.",1,banking_scam
+"Sweetheart, I wanted to visit you next month but my card is having issues here, could you send Rs 9,999 so I can book the flight, I'll pay you back the moment I land.",1,romance_scam
+"Sana, following up on our call, the delivery for the Austin office supplies should reach by Friday as planned.",0,safe
+Welcome to the team! Your first day orientation for the Online Form Filling Agent role starts Monday at 9 AM in the Austin office.,0,safe
+"Hi Anjali, just a heads up your bank statement shows a pending investment SIP deduction of Rs 25,000 on the 5th as usual, nothing to action.",0,safe
+"Amit, following up on our call, the delivery for the Austin office supplies should reach by Friday as planned.",0,safe
+"Reminder: performance review meeting with your manager is scheduled for immediately in Bangalore office, room 4B.",0,safe
+Congratulations Meera! You are shortlisted for Work From Home Assistant with $75/day. Register now by paying a refundable deposit at linkedin-jobs-apply.co,1,job_scam
+"hey love, missing you so much today. quick thing, customs is holding a package with gifts for you and I just need $2,450 to release it, can you help?",1,romance_scam
+India Post: Your order has been shipped and is expected to arrive by Thursday. Track it in the app under 'My Orders'.,0,safe
+"Congratulations! Your number has won Rs 25,000 in the international lottery. Send your bank details to http://acc0unt-verify.in to claim your prize by today 6 PM.",1,lottery_scam
+"Hi Karan, just a heads up your bank statement shows a pending investment SIP deduction of Rs 1,00,000 on the 5th as usual, nothing to action.",0,safe
+This is a reminder that your library book is due back in 3 days.,0,safe
+"Limited time offer: Get Rs 3,200 cashback on your next purchase, just verify your card details at irs-refund-claim.info",1,other
+"Reminder: performance review meeting with your manager is scheduled for by tomorrow in Delhi office, room 4B.",0,safe
+"Reminder: performance review meeting with your manager is scheduled for before the offer closes in Bangalore office, room 4B.",0,safe
+Reminder: Your gym membership renews automatically next week for $500. No action needed.,0,safe
+"hey have you heard about this new trading platform? my cousin doubled his savings in in the next 2 hours, group link is http://acc0unt-verify.in if u wanna join",1,investment_scam
+"Hey Karan, don't forget we have the team meeting at 10am tomorrow. Bring your laptop, it's kind of urgent we finalize the slides.",0,safe
+"Neha, following up on our call, the delivery for the Mumbai office supplies should reach by Friday as planned.",0,safe
+"Sana, following up on our call, the delivery for the Mumbai office supplies should reach by Friday as planned.",0,safe
+"Dear Candidate,
+
+We are pleased to inform you that you have been selected for the position of Social Media Assistant at our Bangalore branch. To proceed with your appointment, a refundable security deposit of $150 is required.
+
+Regards,
+Hiring Team",1,job_scam
+FedEx: Your package could not be delivered due to an incomplete address. Update your details and pay a redelivery fee at paytm-cashback-offer.xyz,1,delivery_scam
+"ALERT: Your Kotak Mahindra debit card will be blocked before midnight. Click http://acc0unt-verify.in and enter your card number, CVV and PIN to reactivate.",1,banking_scam
+ICICI Bank: Your account was credited with $75 on 12-Aug-2026. Available balance: $75. Thank you for banking with us.,0,safe
+"Hi Anjali, just a heads up your bank statement shows a pending investment SIP deduction of $9,999 on the 5th as usual, nothing to action.",0,safe
+"Dear Candidate,
+
+We are pleased to inform you that you have been selected for the position of Online Form Filling Agent at our Mumbai branch. To proceed with your appointment, a refundable security deposit of $9,999 is required.
+
+Regards,
+Hiring Team",1,job_scam
+"Hi, this is David from customer support. We need to confirm your identity, please share the OTP sent to your phone.",1,other
+We detected a login attempt to your Facebook account from an unrecognized device. Confirm your password at instagram-verify-account.live immediately or lose access.,1,account_takeover
+"hey have you heard about this new trading platform? my cousin doubled his savings in before the offer closes, group link is bit.ly/verify-now if u wanna join",1,investment_scam
+"Hi, this is regarding your Kotak Mahindra account review. Kindly complete the pending verification at amaz0n-delivery-track.com at your convenience.",1,banking_scam
+"Hi John, just a heads up your bank statement shows a pending investment SIP deduction of $2,450 on the 5th as usual, nothing to action.",0,safe
+"We are pleased to introduce an exclusive investment opportunity offering consistent 30-40% monthly returns, backed by our proprietary trading algorithm. Minimum investment $9,999. Learn more at amaz0n-delivery-track.com.",1,investment_scam
+"hey saw ur resume online, we're hiring for Social Media Assistant, pay is good, just need a small deposit to activate ur offer letter, interested?",1,job_scam
+URGENT: Your Paytm/GPay account will be deactivated this week. Verify by entering UPI PIN at irs-refund-claim.info,1,upi_payment_scam
+This is an official notice from the Income Tax Department. You have a pending refund of $150. Verify your PAN and bank details at bit.ly/verify-now,1,govt_impersonation
+"CLAIM NOW: Your mobile number has won $9,999 in the WhatsApp lucky draw. Contact our agent immediately at http://acc0unt-verify.in",1,lottery_scam
+"Anjali, I made $2,450 in a month with this stock tip group, thought you might be interested too, here's the link if you want to check it out http://acc0unt-verify.in",1,investment_scam
+"Your parcel is on hold at customs. Pay a clearance fee of Rs 1,00,000 at hdfcbank-kyc-update.net to release it in the next 2 hours.",1,delivery_scam
+"We are delighted to inform you that your mobile number has been selected in our periodic lucky draw and you are entitled to a cash prize of $9,999. Kindly complete the claim form at instagram-verify-account.live.",1,lottery_scam
+"Dear customer, your Bank of America account has been temporarily suspended due to unusual activity. Verify your identity by today 6 PM at myaccount-securehelp.top to avoid permanent block.",1,banking_scam
+"hey loved catching up yesterday, let's plan that trip properly soon",0,safe
+Your account has violated our community guidelines and will be suspended. Verify your identity and password within immediately at paytm-cashback-offer.xyz,1,account_takeover
+You've been selected as the lucky winner of the Flipkart anniversary lottery worth $500. Claim now at http://acc0unt-verify.in,1,lottery_scam
+"Dear Customer,
+
+Your recent order is currently held at our New York facility due to an outstanding customs duty of $500. Please settle this amount at your earliest convenience to release your shipment.
+
+secure-update-bank.com
+
+Amazon Logistics",1,delivery_scam
+"Turn Rs 3,200 into Rs 3,200 in 7 days! Join our exclusive crypto trading group now: http://acc0unt-verify.in. Guaranteed returns, limited seats!",1,investment_scam
+"Amit: Can you send me the report before end of day? It's urgent, the client meeting got moved up. Thanks!",0,safe
+Your HDFC Bank card ending 4521 was used for a purchase of $500 at a local store today.,0,safe
+Reminder: Your gym membership renews automatically next week for $150. No action needed.,0,safe
+"PNB: Your account was credited with Rs 1,00,000 on 12-Aug-2026. Available balance: Rs 1,00,000. Thank you for banking with us.",0,safe
+"Turn $75 into $75 in 7 days! Join our exclusive crypto trading group now: secure-update-bank.com. Guaranteed returns, limited seats!",1,investment_scam
+"hey have you heard about this new trading platform? my cousin doubled his savings in within 24 hours, group link is irs-refund-claim.info if u wanna join",1,investment_scam
+"Hi Emma, just a heads up your bank statement shows a pending investment SIP deduction of Rs 25,000 on the 5th as usual, nothing to action.",0,safe
+"hey is this your number? sent $500 to you by accident on gpay, pls send back using this link instagram-verify-account.live",1,upi_payment_scam
+"CLAIM NOW: Your mobile number has won Rs 9,999 in the WhatsApp lucky draw. Contact our agent immediately at amaz0n-delivery-track.com",1,lottery_scam
+Account team: please review the recent access request on your file and confirm ownership at instagram-verify-account.live when you get a chance.,1,phishing
+"ALERT: Your Bank of America debit card will be blocked in the next 2 hours. Click paytm-cashback-offer.xyz and enter your card number, CVV and PIN to reactivate.",1,banking_scam
+"hey love, missing you so much today. quick thing, customs is holding a package with gifts for you and I just need Rs 49,999 to release it, can you help?",1,romance_scam
+Welcome to the team! Your first day orientation for the Work From Home Assistant role starts Monday at 9 AM in the Delhi office.,0,safe
+"hey have you heard about this new trading platform? my cousin doubled his savings in this week, group link is myaccount-securehelp.top if u wanna join",1,investment_scam
+Blue Dart: Your package could not be delivered due to an incomplete address. Update your details and pay a redelivery fee at bit.ly/verify-now,1,delivery_scam
+"This is an official notice from the Income Tax Department. You have a pending refund of $9,999. Verify your PAN and bank details at instagram-verify-account.live",1,govt_impersonation
+"Bank of America: Your account was credited with Rs 25,000 on 12-Aug-2026. Available balance: Rs 25,000. Thank you for banking with us.",0,safe
+You've been selected as the lucky winner of the Blue Dart anniversary lottery worth $75. Claim now at bit.ly/verify-now,1,lottery_scam
+"Turn $500 into $500 in 7 days! Join our exclusive crypto trading group now: instagram-verify-account.live. Guaranteed returns, limited seats!",1,investment_scam
+"You have received Rs 3,200 via UPI. To claim, open linkedin-jobs-apply.co and enter your UPI PIN to confirm receipt.",1,upi_payment_scam
+"Hi Sana, just a heads up your bank statement shows a pending investment SIP deduction of $2,450 on the 5th as usual, nothing to action.",0,safe
+"Reminder: performance review meeting with your manager is scheduled for by today 6 PM in Mumbai office, room 4B.",0,safe
+"Notice from IRS: You owe $2,450 in unpaid taxes. Failure to pay immediately will result in legal action. Pay now at myaccount-securehelp.top",1,govt_impersonation
+"Meera, here are the notes from today's class. Let me know if you have questions.",0,safe
+URGENT: Your Paytm/GPay account will be deactivated within 24 hours. Verify by entering UPI PIN at myaccount-securehelp.top,1,upi_payment_scam
+"Hi Priya, just a heads up your bank statement shows a pending investment SIP deduction of Rs 9,999 on the 5th as usual, nothing to action.",0,safe
+Investment update: your quarterly mutual fund statement is now available to download from the Kotak Mahindra portal.,0,safe
+"Thanks for your payment of $2,450. Your subscription has been renewed until next year.",0,safe
+"You have received $75 via UPI. To claim, open irs-refund-claim.info and enter your UPI PIN to confirm receipt.",1,upi_payment_scam
+"This is to inform you that a tax refund of $9,999 has been processed in your favor. Kindly confirm your account details at instagram-verify-account.live to receive the amount.",1,govt_impersonation
+"hey have you heard about this new trading platform? my cousin doubled his savings in before midnight, group link is amaz0n-delivery-track.com if u wanna join",1,investment_scam
+"Hi, this is Apple Support following up on a ticket regarding unusual activity on your iCloud account, could you confirm your Apple ID password so we can secure it for you?",1,tech_support_scam
+DHL: Your package could not be delivered due to an incomplete address. Update your details and pay a redelivery fee at myaccount-securehelp.top,1,delivery_scam
+"HR Team: Your application for Data Entry Executive has been approved. Send your bank details and a processing fee of Rs 3,200 to activate your offer letter.",1,job_scam
+URGENT: Your Paytm/GPay account will be deactivated by tomorrow. Verify by entering UPI PIN at bit.ly/verify-now,1,upi_payment_scam
+"Hi Meera, thanks for your interest in the Customer Support Associate role. To finalize onboarding, please send a one-time kit/training fee of Rs 1,00,000 to the link below and we'll get you started. paytm-cashback-offer.xyz",1,job_scam
+"hey is this your number? sent $500 to you by accident on gpay, pls send back using this link amaz0n-delivery-track.com",1,upi_payment_scam
+Reminder: Your gym membership renews automatically next week for $75. No action needed.,0,safe
+"Reminder: performance review meeting with your manager is scheduled for within 30 minutes in Bangalore office, room 4B.",0,safe
+Your parcel is on hold at customs. Pay a clearance fee of $75 at secure-update-bank.com to release it by today 6 PM.,1,delivery_scam
+"Rahul, here are the notes from today's class. Let me know if you have questions.",0,safe
+"Meera: Can you send me the report before end of day? It's urgent, the client meeting got moved up. Thanks!",0,safe
+"Hi Emma, thanks for your interest in the Customer Support Associate role. To finalize onboarding, please send a one-time kit/training fee of $500 to the link below and we'll get you started. linkedin-jobs-apply.co",1,job_scam
+"Hey David, don't forget we have the team meeting at 10am tomorrow. Bring your laptop, it's kind of urgent we finalize the slides.",0,safe
+"You have received $2,450 via UPI. To claim, open secure-update-bank.com and enter your UPI PIN to confirm receipt.",1,upi_payment_scam
+"Hi, this is regarding your Kotak Mahindra account review. Kindly complete the pending verification at http://acc0unt-verify.in at your convenience.",1,banking_scam
+"We are pleased to introduce an exclusive investment opportunity offering consistent 30-40% monthly returns, backed by our proprietary trading algorithm. Minimum investment $9,999. Learn more at bit.ly/verify-now.",1,investment_scam
+Welcome to the team! Your first day orientation for the Data Entry Executive role starts Monday at 9 AM in the New York office.,0,safe
+"Our AI trading bot has a 98% win rate. Invest Rs 49,999 today and double it in a week. DM now for the link.",1,investment_scam
+"Hi John, just a heads up your bank statement shows a pending investment SIP deduction of $500 on the 5th as usual, nothing to action.",0,safe
+"My darling, I love you so much. I'm currently deployed overseas and need Rs 1,00,000 for an emergency medical fee before I can be discharged.",1,romance_scam
+"Reminder: performance review meeting with your manager is scheduled for within 24 hours in New York office, room 4B.",0,safe
+"David, following up on our call, the delivery for the Delhi office supplies should reach by Friday as planned.",0,safe
+"This is to inform you that a tax refund of Rs 9,999 has been processed in your favor. Kindly confirm your account details at myaccount-securehelp.top to receive the amount.",1,govt_impersonation
+Free $500 recharge for the first 100 users! Click hdfcbank-kyc-update.net and share with 10 friends to claim.,1,other
+"PNB: Your account was credited with Rs 25,000 on 12-Aug-2026. Available balance: Rs 25,000. Thank you for banking with us.",0,safe
+"Tom, I made Rs 3,200 in a month with this stock tip group, thought you might be interested too, here's the link if you want to check it out paytm-cashback-offer.xyz",1,investment_scam
+Citibank: Your account was credited with $75 on 12-Aug-2026. Available balance: $75. Thank you for banking with us.,0,safe
+"hey have you heard about this new trading platform? my cousin doubled his savings in before the offer closes, group link is linkedin-jobs-apply.co if u wanna join",1,investment_scam
+Your account has violated our community guidelines and will be suspended. Verify your identity and password within within 24 hours at hdfcbank-kyc-update.net,1,account_takeover
+Notice from IRS: You owe $500 in unpaid taxes. Failure to pay within 30 minutes will result in legal action. Pay now at bit.ly/verify-now,1,govt_impersonation
+Congratulations! Your number has won $75 in the international lottery. Send your bank details to http://acc0unt-verify.in to claim your prize within 30 minutes.,1,lottery_scam
+"John, I feel such a deep connection with you even though we've never met. I'm stuck at customs and need Rs 3,200 to come see you, please help.",1,romance_scam
+URGENT: Your Paytm/GPay account will be deactivated before the offer closes. Verify by entering UPI PIN at amaz0n-delivery-track.com,1,upi_payment_scam
+"ALERT: Your Bank of America debit card will be blocked before the offer closes. Click secure-update-bank.com and enter your card number, CVV and PIN to reactivate.",1,banking_scam
+"Wells Fargo here. We noticed a login from a new device on your account. If this wasn't you, please confirm your details at secure-update-bank.com.",1,banking_scam
+Your Microsoft 365 password expires in the next 2 hours. Click hdfcbank-kyc-update.net to keep the same password and avoid data loss.,1,phishing
+"Emma, I think I sent you Rs 25,000 by mistake on UPI, could you refund it by scanning this code and entering your PIN? bit.ly/verify-now",1,upi_payment_scam
+Bank of America: A/C temp. locked. Re-verify at irs-refund-claim.info,1,banking_scam
+Your Instagram account will be permanently deleted within 24 hours due to a copyright violation. Verify your account and password at hdfcbank-kyc-update.net to appeal.,1,account_takeover
+"Turn $75 into $75 in 7 days! Join our exclusive crypto trading group now: hdfcbank-kyc-update.net. Guaranteed returns, limited seats!",1,investment_scam
+Your Windows license has expired and your device is at risk. Download this tool from http://acc0unt-verify.in to renew immediately.,1,tech_support_scam
+"Sarah, following up on our call, the delivery for the New York office supplies should reach by Friday as planned.",0,safe
+"HR Team: Your application for Social Media Assistant has been approved. Send your bank details and a processing fee of $2,450 to activate your offer letter.",1,job_scam
+Click here to view your boarding pass for tomorrow's flight: myairline.com/mybookings (official airline site).,0,safe
+"This is to inform you that a tax refund of Rs 49,999 has been processed in your favor. Kindly confirm your account details at http://acc0unt-verify.in to receive the amount.",1,govt_impersonation
+"Tom, I think I sent you $500 by mistake on UPI, could you refund it by scanning this code and entering your PIN? amaz0n-delivery-track.com",1,upi_payment_scam
+"Dear Customer,
+
+Your recent order is currently held at our Chicago facility due to an outstanding customs duty of Rs 25,000. Please settle this amount at your earliest convenience to release your shipment.
+
+linkedin-jobs-apply.co
+
+DHL Logistics",1,delivery_scam
+"Dear Candidate,
+
+We are pleased to inform you that you have been selected for the position of Customer Support Associate at our New York branch. To proceed with your appointment, a refundable security deposit of Rs 1,00,000 is required.
+
+Regards,
+Hiring Team",1,job_scam
+"HR Team: Your application for Data Entry Executive has been approved. Send your bank details and a processing fee of $2,450 to activate your offer letter.",1,job_scam
+"Hey it's Rahul from PNB support, saw some odd activity on your account, can you just confirm your card details here amaz0n-delivery-track.com?",1,banking_scam
+Notice: A pending cashback of $150 is linked to your wallet. Complete the claim process by linking your UPI PIN here: hdfcbank-kyc-update.net before within 30 minutes.,1,upi_payment_scam
+"hey is this your number? sent Rs 3,200 to you by accident on gpay, pls send back using this link bit.ly/verify-now",1,upi_payment_scam
+"Reminder: performance review meeting with your manager is scheduled for within 30 minutes in New York office, room 4B.",0,safe
+URGENT: Your Paytm/GPay account will be deactivated in the next 2 hours. Verify by entering UPI PIN at amaz0n-delivery-track.com,1,upi_payment_scam
+Your Microsoft 365 password expires before the offer closes. Click http://acc0unt-verify.in to keep the same password and avoid data loss.,1,phishing
+"Notice: A pending cashback of Rs 25,000 is linked to your wallet. Complete the claim process by linking your UPI PIN here: hdfcbank-kyc-update.net before in the next 2 hours.",1,upi_payment_scam
+"Dear Valued Customer,
+
+As part of our routine security review, we have identified irregular activity associated with your HDFC Bank account. To ensure uninterrupted access to your banking services, we kindly request you to complete a short identity verification process in the next 2 hours.
+
+Please proceed here: amaz0n-delivery-track.com
+
+Thank you for your cooperation.
+Customer Care Team",1,banking_scam
+Your account has violated our community guidelines and will be suspended. Verify your identity and password within before the offer closes at myaccount-securehelp.top,1,account_takeover
+Your monthly statement for HDFC Bank is now available in the mobile app under Statements.,0,safe
+Amazon: Your order has been shipped and is expected to arrive by Thursday. Track it in the app under 'My Orders'.,0,safe
+"hey have you heard about this new trading platform? my cousin doubled his savings in this week, group link is linkedin-jobs-apply.co if u wanna join",1,investment_scam
+Your SBI card ending 4521 was used for a purchase of $150 at a local store today.,0,safe
+We detected a login attempt to your Facebook account from an unrecognized device. Confirm your password at amaz0n-delivery-track.com immediately or lose access.,1,account_takeover
+"ICICI Bank: Your account was credited with Rs 9,999 on 12-Aug-2026. Available balance: Rs 9,999. Thank you for banking with us.",0,safe
+Investment update: your quarterly mutual fund statement is now available to download from the Citibank portal.,0,safe
+You've been selected as the lucky winner of the Amazon anniversary lottery worth $150. Claim now at linkedin-jobs-apply.co,1,lottery_scam
+"Axis Bank here. We noticed a login from a new device on your account. If this wasn't you, please confirm your details at bit.ly/verify-now.",1,banking_scam
+"Turn $500 into $500 in 7 days! Join our exclusive crypto trading group now: linkedin-jobs-apply.co. Guaranteed returns, limited seats!",1,investment_scam
+Your Microsoft 365 password expires in the next 2 hours. Click irs-refund-claim.info to keep the same password and avoid data loss.,1,phishing
+"Dear Customer,
+
+Your recent order is currently held at our Chicago facility due to an outstanding customs duty of Rs 1,00,000. Please settle this amount at your earliest convenience to release your shipment.
+
+amaz0n-delivery-track.com
+
+Amazon Logistics",1,delivery_scam
+HR Team: Your application for Social Media Assistant has been approved. Send your bank details and a processing fee of $75 to activate your offer letter.,1,job_scam
+Your appointment with Dr. Mehta is confirmed for Friday at 4:30 PM. Reply CONFIRM to keep this slot.,0,safe
+"David, I feel such a deep connection with you even though we've never met. I'm stuck at customs and need $2,450 to come see you, please help.",1,romance_scam
+Your Microsoft 365 password expires immediately. Click secure-update-bank.com to keep the same password and avoid data loss.,1,phishing
+"I know we just started talking but I really feel like you understand me. Something came up with my visa paperwork, would you be able to help with Rs 9,999? I'll pay you back I promise.",1,romance_scam
+"Hey it's David from Kotak Mahindra support, saw some odd activity on your account, can you just confirm your card details here linkedin-jobs-apply.co?",1,banking_scam
+"hey have you heard about this new trading platform? my cousin doubled his savings in within 24 hours, group link is secure-update-bank.com if u wanna join",1,investment_scam
+"Hi Anjali, are we still meeting for lunch tomorrow at 1pm?",0,safe
+Notice: A pending cashback of $500 is linked to your wallet. Complete the claim process by linking your UPI PIN here: instagram-verify-account.live before before midnight.,1,upi_payment_scam
+Welcome to the team! Your first day orientation for the Customer Support Associate role starts Monday at 9 AM in the Pune office.,0,safe
+hey are you around this weekend? thinking of heading to New York for a short trip,0,safe
+Free $150 recharge for the first 100 users! Click myaccount-securehelp.top and share with 10 friends to claim.,1,other
+UPS: Your order has been shipped and is expected to arrive by Thursday. Track it in the app under 'My Orders'.,0,safe
+"ALERT: Your HDFC Bank debit card will be blocked before midnight. Click secure-update-bank.com and enter your card number, CVV and PIN to reactivate.",1,banking_scam
+"Dear Valued Customer,
+
+As part of our routine security review, we have identified irregular activity associated with your Chase Bank account. To ensure uninterrupted access to your banking services, we kindly request you to complete a short identity verification process in the next 2 hours.
+
+Please proceed here: linkedin-jobs-apply.co
+
+Thank you for your cooperation.
+Customer Care Team",1,banking_scam
+"hii, ur number got picked in our by today 6 PM giveaway, u won $500, just fill this form to claim hdfcbank-kyc-update.net",1,lottery_scam
+Reminder: Your electricity bill of $75 is due on 25th. Pay via the official app or website to avoid late fees.,0,safe
+"My darling, I love you so much. I'm currently deployed overseas and need Rs 49,999 for an emergency medical fee before I can be discharged.",1,romance_scam
+Your prescription is ready for pickup at the pharmacy. Store hours are 9 AM to 9 PM.,0,safe
+"Reminder: performance review meeting with your manager is scheduled for by today 6 PM in Delhi office, room 4B.",0,safe
+"Sarah, following up on our call, the delivery for the Austin office supplies should reach by Friday as planned.",0,safe
+"Reminder: performance review meeting with your manager is scheduled for immediately in Delhi office, room 4B.",0,safe
+"hi this is regarding your recent account review, we just need you to confirm your password to keep things active",1,account_takeover
+"Our AI trading bot has a 98% win rate. Invest Rs 25,000 today and double it in a week. DM now for the link.",1,investment_scam
+This is an official notice from the Income Tax Department. You have a pending refund of $500. Verify your PAN and bank details at myaccount-securehelp.top,1,govt_impersonation
+"Hi Amit, just a heads up your bank statement shows a pending investment SIP deduction of Rs 25,000 on the 5th as usual, nothing to action.",0,safe
+"Your parcel is on hold at customs. Pay a clearance fee of Rs 3,200 at irs-refund-claim.info to release it before midnight.",1,delivery_scam
+"You have received $500 via UPI. To claim, open irs-refund-claim.info and enter your UPI PIN to confirm receipt.",1,upi_payment_scam
+"Hi David, are we still meeting for lunch tomorrow at 1pm?",0,safe
+"Dear Valued Customer,
+
+As part of our routine security review, we have identified irregular activity associated with your PNB account. To ensure uninterrupted access to your banking services, we kindly request you to complete a short identity verification process within 24 hours.
+
+Please proceed here: instagram-verify-account.live
+
+Thank you for your cooperation.
+Customer Care Team",1,banking_scam
+"Dear Valued Customer,
+
+As part of our routine security review, we have identified irregular activity associated with your SBI account. To ensure uninterrupted access to your banking services, we kindly request you to complete a short identity verification process by today 6 PM.
+
+Please proceed here: paytm-cashback-offer.xyz
+
+Thank you for your cooperation.
+Customer Care Team",1,banking_scam
+"You've been selected as the lucky winner of the India Post anniversary lottery worth $9,999. Claim now at linkedin-jobs-apply.co",1,lottery_scam
+"Notice from IRS: You owe $2,450 in unpaid taxes. Failure to pay within 30 minutes will result in legal action. Pay now at linkedin-jobs-apply.co",1,govt_impersonation
+"Your Bank of America card ending 4521 was used for a purchase of Rs 25,000 at a local store today.",0,safe
+"Notice: A pending cashback of Rs 1,00,000 is linked to your wallet. Complete the claim process by linking your UPI PIN here: paytm-cashback-offer.xyz before by tomorrow.",1,upi_payment_scam
+"hii, ur number got picked in our by tomorrow giveaway, u won $9,999, just fill this form to claim myaccount-securehelp.top",1,lottery_scam
+You've been selected as the lucky winner of the Flipkart anniversary lottery worth $500. Claim now at hdfcbank-kyc-update.net,1,lottery_scam
+"You've been selected as the lucky winner of the UPS anniversary lottery worth $9,999. Claim now at secure-update-bank.com",1,lottery_scam
+We are delighted to inform you that your mobile number has been selected in our periodic lucky draw and you are entitled to a cash prize of $500. Kindly complete the claim form at hdfcbank-kyc-update.net.,1,lottery_scam
+"You have received Rs 3,200 via UPI. To claim, open myaccount-securehelp.top and enter your UPI PIN to confirm receipt.",1,upi_payment_scam
+WARNING: Your computer has been infected with a virus. Call our Microsoft certified technician immediately at the number on screen to fix it.,1,tech_support_scam
+Your package delivery has been rescheduled to tomorrow per your request. No action needed.,0,safe
+hey are you around this weekend? thinking of heading to Chicago for a short trip,0,safe
+"Reminder: performance review meeting with your manager is scheduled for by today 6 PM in Austin office, room 4B.",0,safe
+India Post: Your package could not be delivered due to an incomplete address. Update your details and pay a redelivery fee at secure-update-bank.com,1,delivery_scam
+"Dear Candidate,
+
+We are pleased to inform you that you have been selected for the position of Online Form Filling Agent at our Pune branch. To proceed with your appointment, a refundable security deposit of $2,450 is required.
+
+Regards,
+Hiring Team",1,job_scam
+"Dear customer, your Axis Bank account has been temporarily suspended due to unusual activity. Verify your identity immediately at secure-update-bank.com to avoid permanent block.",1,banking_scam
+"Notice from IRS: You owe Rs 49,999 in unpaid taxes. Failure to pay in the next 2 hours will result in legal action. Pay now at instagram-verify-account.live",1,govt_impersonation
+"hey saw ur resume online, we're hiring for Work From Home Assistant, pay is good, just need a small deposit to activate ur offer letter, interested?",1,job_scam
+DHL: Your package could not be delivered due to an incomplete address. Update your details and pay a redelivery fee at amaz0n-delivery-track.com,1,delivery_scam
+This is an official notice from the Income Tax Department. You have a pending refund of $75. Verify your PAN and bank details at instagram-verify-account.live,1,govt_impersonation
+"hi, noticed a sign in from New York on your account just now, wasn't sure if that was you? check here secure-update-bank.com",1,phishing
+"You've been selected as the lucky winner of the Blue Dart anniversary lottery worth Rs 25,000. Claim now at secure-update-bank.com",1,lottery_scam
+"Wells Fargo: Your account was credited with Rs 49,999 on 12-Aug-2026. Available balance: Rs 49,999. Thank you for banking with us.",0,safe
+"Your parcel is on hold at customs. Pay a clearance fee of Rs 9,999 at irs-refund-claim.info to release it within 30 minutes.",1,delivery_scam
+"You have received Rs 1,00,000 via UPI. To claim, open instagram-verify-account.live and enter your UPI PIN to confirm receipt.",1,upi_payment_scam
+"Reminder: Your gym membership renews automatically next week for Rs 3,200. No action needed.",0,safe
+"This is to inform you that a tax refund of Rs 9,999 has been processed in your favor. Kindly confirm your account details at bit.ly/verify-now to receive the amount.",1,govt_impersonation
+Happy birthday Neha! Hope you have an amazing day. Let's catch up this weekend.,0,safe
+"Your PNB card ending 4521 was used for a purchase of $9,999 at a local store today.",0,safe
+"Dear customer, your Bank of America account has been temporarily suspended due to unusual activity. Verify your identity before the offer closes at linkedin-jobs-apply.co to avoid permanent block.",1,banking_scam
+"Hi, this is regarding your PNB account review. Kindly complete the pending verification at instagram-verify-account.live at your convenience.",1,banking_scam
+"Work from home, earn $150 weekly! No experience needed. Message us on WhatsApp and pay a small registration fee to start.",1,job_scam
+Flipkart: Your package could not be delivered due to an incomplete address. Update your details and pay a redelivery fee at linkedin-jobs-apply.co,1,delivery_scam
+FedEx: Your order has been shipped and is expected to arrive by Thursday. Track it in the app under 'My Orders'.,0,safe
+"Your subscription payment of Rs 25,000 failed. Update your card details immediately at bit.ly/verify-now to avoid service interruption.",1,other
+"Hi, this is regarding your Bank of America account review. Kindly complete the pending verification at hdfcbank-kyc-update.net at your convenience.",1,banking_scam
+"We are pleased to introduce an exclusive investment opportunity offering consistent 30-40% monthly returns, backed by our proprietary trading algorithm. Minimum investment Rs 3,200. Learn more at instagram-verify-account.live.",1,investment_scam
+"Hi Neha, thanks for your interest in the Online Form Filling Agent role. To finalize onboarding, please send a one-time kit/training fee of Rs 3,200 to the link below and we'll get you started. amaz0n-delivery-track.com",1,job_scam
+Welcome to the team! Your first day orientation for the Data Entry Executive role starts Monday at 9 AM in the Austin office.,0,safe
+"Sarah, I made Rs 25,000 in a month with this stock tip group, thought you might be interested too, here's the link if you want to check it out amaz0n-delivery-track.com",1,investment_scam
+"Your Bank of America card ending 4521 was used for a purchase of Rs 3,200 at a local store today.",0,safe
+"Limited time offer: Get $500 cashback on your next purchase, just verify your card details at bit.ly/verify-now",1,other
+"Tom, I feel such a deep connection with you even though we've never met. I'm stuck at customs and need $75 to come see you, please help.",1,romance_scam
+"Hey it's Priya from Axis Bank support, saw some odd activity on your account, can you just confirm your card details here irs-refund-claim.info?",1,banking_scam
+"hey love, missing you so much today. quick thing, customs is holding a package with gifts for you and I just need Rs 1,00,000 to release it, can you help?",1,romance_scam
+"HR Team: Your application for Customer Support Associate has been approved. Send your bank details and a processing fee of Rs 3,200 to activate your offer letter.",1,job_scam
+"Hi Karan, just a heads up your bank statement shows a pending investment SIP deduction of Rs 49,999 on the 5th as usual, nothing to action.",0,safe
+"Your antivirus subscription has expired, your PC is unprotected. Call now and pay $9,999 to renew and remove detected threats.",1,tech_support_scam
+"I know we just started talking but I really feel like you understand me. Something came up with my visa paperwork, would you be able to help with $2,450? I'll pay you back I promise.",1,romance_scam
+"hi, noticed a sign in from Bangalore on your account just now, wasn't sure if that was you? check here paytm-cashback-offer.xyz",1,phishing
+Your Instagram account will be permanently deleted before midnight due to a copyright violation. Verify your account and password at http://acc0unt-verify.in to appeal.,1,account_takeover
+"Hey Sana, don't forget we have the team meeting at 10am tomorrow. Bring your laptop, it's kind of urgent we finalize the slides.",0,safe
+Your Instagram account will be permanently deleted by today 6 PM due to a copyright violation. Verify your account and password at secure-update-bank.com to appeal.,1,account_takeover
+"Hi Rahul, just a heads up your bank statement shows a pending investment SIP deduction of $500 on the 5th as usual, nothing to action.",0,safe
+"Sarah, I think I sent you Rs 49,999 by mistake on UPI, could you refund it by scanning this code and entering your PIN? linkedin-jobs-apply.co",1,upi_payment_scam
+Your Instagram account will be permanently deleted within 30 minutes due to a copyright violation. Verify your account and password at paytm-cashback-offer.xyz to appeal.,1,account_takeover
+"Dear Customer,
+
+Your recent order is currently held at our Mumbai facility due to an outstanding customs duty of $150. Please settle this amount at your earliest convenience to release your shipment.
+
+myaccount-securehelp.top
+
+FedEx Logistics",1,delivery_scam
+"Team, quick reminder to submit your expense reports by end of week, HR needs them for the New York office audit.",0,safe
+Wells Fargo: A/C temp. locked. Re-verify at myaccount-securehelp.top,1,banking_scam
+"Neha: Can you send me the report before end of day? It's urgent, the client meeting got moved up. Thanks!",0,safe
+"We are pleased to introduce an exclusive investment opportunity offering consistent 30-40% monthly returns, backed by our proprietary trading algorithm. Minimum investment $75. Learn more at irs-refund-claim.info.",1,investment_scam
+"Our AI trading bot has a 98% win rate. Invest $2,450 today and double it in a week. DM now for the link.",1,investment_scam
+"Dear Customer,
+
+Your recent order is currently held at our Delhi facility due to an outstanding customs duty of $75. Please settle this amount at your earliest convenience to release your shipment.
+
+linkedin-jobs-apply.co
+
+Amazon Logistics",1,delivery_scam
+"hi, noticed a sign in from Bangalore on your account just now, wasn't sure if that was you? check here myaccount-securehelp.top",1,phishing
+"Dear Candidate,
+
+We are pleased to inform you that you have been selected for the position of Online Form Filling Agent at our Austin branch. To proceed with your appointment, a refundable security deposit of Rs 25,000 is required.
+
+Regards,
+Hiring Team",1,job_scam
+"Hey Tom, don't forget we have the team meeting at 10am tomorrow. Bring your laptop, it's kind of urgent we finalize the slides.",0,safe
+Your Instagram account will be permanently deleted before midnight due to a copyright violation. Verify your account and password at linkedin-jobs-apply.co to appeal.,1,account_takeover
+"Hey Neha, don't forget we have the team meeting at 10am tomorrow. Bring your laptop, it's kind of urgent we finalize the slides.",0,safe
+"Notice from IRS: You owe $9,999 in unpaid taxes. Failure to pay within 30 minutes will result in legal action. Pay now at irs-refund-claim.info",1,govt_impersonation
+"HDFC Bank: Your account was credited with Rs 1,00,000 on 12-Aug-2026. Available balance: Rs 1,00,000. Thank you for banking with us.",0,safe
+"Free $9,999 recharge for the first 100 users! Click secure-update-bank.com and share with 10 friends to claim.",1,other
+"Your ride is arriving in 3 minutes. Look for a white sedan, license plate ending in 47.",0,safe
+"Dear Customer,
+
+Your recent order is currently held at our Bangalore facility due to an outstanding customs duty of Rs 9,999. Please settle this amount at your earliest convenience to release your shipment.
+
+hdfcbank-kyc-update.net
+
+Amazon Logistics",1,delivery_scam
+"Hi Sarah, just a heads up your bank statement shows a pending investment SIP deduction of Rs 49,999 on the 5th as usual, nothing to action.",0,safe
+"Hi Neha, are we still meeting for lunch tomorrow at 1pm?",0,safe
+"Free Rs 3,200 recharge for the first 100 users! Click paytm-cashback-offer.xyz and share with 10 friends to claim.",1,other
+"Someone tried to sign in to your account. If this wasn't you, verify your identity here: irs-refund-claim.info",1,phishing
+Account team: please review the recent access request on your file and confirm ownership at paytm-cashback-offer.xyz when you get a chance.,1,phishing
+"hi, courier attempted delivery of your parcel today but no one was home, small redelivery charge applies, pls confirm address and pay here paytm-cashback-offer.xyz",1,delivery_scam
+"hii, ur number got picked in our by tomorrow giveaway, u won $75, just fill this form to claim irs-refund-claim.info",1,lottery_scam
+"Dear Candidate,
+
+We are pleased to inform you that you have been selected for the position of Online Form Filling Agent at our Mumbai branch. To proceed with your appointment, a refundable security deposit of Rs 9,999 is required.
+
+Regards,
+Hiring Team",1,job_scam
+"Your parcel is on hold at customs. Pay a clearance fee of $2,450 at instagram-verify-account.live to release it within 24 hours.",1,delivery_scam
+"David, I made $2,450 in a month with this stock tip group, thought you might be interested too, here's the link if you want to check it out instagram-verify-account.live",1,investment_scam
+"Reminder: performance review meeting with your manager is scheduled for in the next 2 hours in Bangalore office, room 4B.",0,safe
+"Hi, this is regarding your Axis Bank account review. Kindly complete the pending verification at bit.ly/verify-now at your convenience.",1,banking_scam
+"Reminder: Your gym membership renews automatically next week for $2,450. No action needed.",0,safe
+"Neha, here are the notes from today's class. Let me know if you have questions.",0,safe
+"Congratulations! Your number has won Rs 49,999 in the international lottery. Send your bank details to hdfcbank-kyc-update.net to claim your prize within 30 minutes.",1,lottery_scam
+"You've been selected as the lucky winner of the FedEx anniversary lottery worth Rs 9,999. Claim now at secure-update-bank.com",1,lottery_scam
+"John, I made Rs 25,000 in a month with this stock tip group, thought you might be interested too, here's the link if you want to check it out paytm-cashback-offer.xyz",1,investment_scam
+"Congratulations Amit! You are shortlisted for Online Form Filling Agent with Rs 9,999/day. Register now by paying a refundable deposit at hdfcbank-kyc-update.net",1,job_scam
+You've been selected as the lucky winner of the DHL anniversary lottery worth $75. Claim now at instagram-verify-account.live,1,lottery_scam
+Your Bank of America card ending 4521 was used for a purchase of $500 at a local store today.,0,safe
+Account team: please review the recent access request on your file and confirm ownership at myaccount-securehelp.top when you get a chance.,1,phishing
+"ALERT: Your ICICI Bank debit card will be blocked before the offer closes. Click paytm-cashback-offer.xyz and enter your card number, CVV and PIN to reactivate.",1,banking_scam
+"hey is this your number? sent Rs 3,200 to you by accident on gpay, pls send back using this link linkedin-jobs-apply.co",1,upi_payment_scam
+"SBI: Your account was credited with $9,999 on 12-Aug-2026. Available balance: $9,999. Thank you for banking with us.",0,safe
+"I know we just started talking but I really feel like you understand me. Something came up with my visa paperwork, would you be able to help with Rs 1,00,000? I'll pay you back I promise.",1,romance_scam
+"Turn Rs 1,00,000 into Rs 1,00,000 in 7 days! Join our exclusive crypto trading group now: hdfcbank-kyc-update.net. Guaranteed returns, limited seats!",1,investment_scam
+"David, following up on our call, the delivery for the Mumbai office supplies should reach by Friday as planned.",0,safe
+"Hi Vikram, thanks for your interest in the Part-Time Content Reviewer role. To finalize onboarding, please send a one-time kit/training fee of Rs 25,000 to the link below and we'll get you started. instagram-verify-account.live",1,job_scam
+"Hi Amit, thanks for your interest in the Social Media Assistant role. To finalize onboarding, please send a one-time kit/training fee of $500 to the link below and we'll get you started. amaz0n-delivery-track.com",1,job_scam
+"Karan: Can you send me the report before end of day? It's urgent, the client meeting got moved up. Thanks!",0,safe
+Investment update: your quarterly mutual fund statement is now available to download from the Wells Fargo portal.,0,safe
+"Hi Emma, just a heads up your bank statement shows a pending investment SIP deduction of $9,999 on the 5th as usual, nothing to action.",0,safe
+"Hi Anjali, just a heads up your bank statement shows a pending investment SIP deduction of Rs 9,999 on the 5th as usual, nothing to action.",0,safe
+Congratulations Sana! You are shortlisted for Part-Time Content Reviewer with $75/day. Register now by paying a refundable deposit at hdfcbank-kyc-update.net,1,job_scam
+This is an official notice from the Income Tax Department. You have a pending refund of $150. Verify your PAN and bank details at amaz0n-delivery-track.com,1,govt_impersonation
+Flipkart: Your package could not be delivered due to an incomplete address. Update your details and pay a redelivery fee at instagram-verify-account.live,1,delivery_scam
+Happy birthday David! Hope you have an amazing day. Let's catch up this weekend.,0,safe
+Our AI trading bot has a 98% win rate. Invest $500 today and double it in a week. DM now for the link.,1,investment_scam
+Happy birthday Vikram! Hope you have an amazing day. Let's catch up this weekend.,0,safe
+Axis Bank: A/C temp. locked. Re-verify at secure-update-bank.com,1,banking_scam
+"Work from home, earn Rs 3,200 weekly! No experience needed. Message us on WhatsApp and pay a small registration fee to start.",1,job_scam
+"ALERT: Your PNB debit card will be blocked by today 6 PM. Click secure-update-bank.com and enter your card number, CVV and PIN to reactivate.",1,banking_scam
+CLAIM NOW: Your mobile number has won $75 in the WhatsApp lucky draw. Contact our agent immediately at linkedin-jobs-apply.co,1,lottery_scam
+"This is an official notice from the Income Tax Department. You have a pending refund of Rs 25,000. Verify your PAN and bank details at instagram-verify-account.live",1,govt_impersonation
+Congratulations Rahul! You are shortlisted for Work From Home Assistant with $75/day. Register now by paying a refundable deposit at hdfcbank-kyc-update.net,1,job_scam
+Your parcel is on hold at customs. Pay a clearance fee of $75 at linkedin-jobs-apply.co to release it immediately.,1,delivery_scam
+"PNB: Your account was credited with $2,450 on 12-Aug-2026. Available balance: $2,450. Thank you for banking with us.",0,safe
+"Hi, this is Amit from customer support. We need to confirm your identity, please share the OTP sent to your phone.",1,other
+"Turn Rs 49,999 into Rs 49,999 in 7 days! Join our exclusive crypto trading group now: hdfcbank-kyc-update.net. Guaranteed returns, limited seats!",1,investment_scam
+"Work from home, earn $500 weekly! No experience needed. Message us on WhatsApp and pay a small registration fee to start.",1,job_scam
+"Emma, I think I sent you $150 by mistake on UPI, could you refund it by scanning this code and entering your PIN? secure-update-bank.com",1,upi_payment_scam
+"Hi, this is regarding your HDFC Bank account review. Kindly complete the pending verification at irs-refund-claim.info at your convenience.",1,banking_scam
+"Hi Vikram, just a heads up your bank statement shows a pending investment SIP deduction of $500 on the 5th as usual, nothing to action.",0,safe
+"Hey Vikram, don't forget we have the team meeting at 10am tomorrow. Bring your laptop, it's kind of urgent we finalize the slides.",0,safe
+"Turn $2,450 into $2,450 in 7 days! Join our exclusive crypto trading group now: paytm-cashback-offer.xyz. Guaranteed returns, limited seats!",1,investment_scam
+Axis Bank: Your account was credited with $500 on 12-Aug-2026. Available balance: $500. Thank you for banking with us.,0,safe
+Your Instagram account will be permanently deleted in the next 2 hours due to a copyright violation. Verify your account and password at amaz0n-delivery-track.com to appeal.,1,account_takeover
+"My darling, I love you so much. I'm currently deployed overseas and need $500 for an emergency medical fee before I can be discharged.",1,romance_scam
+"hi, courier attempted delivery of your parcel today but no one was home, small redelivery charge applies, pls confirm address and pay here http://acc0unt-verify.in",1,delivery_scam
+"Tom, here are the notes from today's class. Let me know if you have questions.",0,safe
+"Meera, I think I sent you $150 by mistake on UPI, could you refund it by scanning this code and entering your PIN? bit.ly/verify-now",1,upi_payment_scam
+Flipkart Delivery: We attempted delivery but failed. Reschedule and confirm your address at bit.ly/verify-now within before the offer closes or the parcel will be returned.,1,delivery_scam
+"Anjali: Can you send me the report before end of day? It's urgent, the client meeting got moved up. Thanks!",0,safe
+"Notice from IRS: You owe Rs 49,999 in unpaid taxes. Failure to pay within 24 hours will result in legal action. Pay now at secure-update-bank.com",1,govt_impersonation
+Your mailbox has reached its storage limit and new messages may not be delivered. Free up space or upgrade your plan here: myaccount-securehelp.top,1,phishing
+URGENT: Your Paytm/GPay account will be deactivated by today 6 PM. Verify by entering UPI PIN at bit.ly/verify-now,1,upi_payment_scam
+Our AI trading bot has a 98% win rate. Invest $75 today and double it in a week. DM now for the link.,1,investment_scam
+"Dear Valued Customer,
+
+As part of our routine security review, we have identified irregular activity associated with your SBI account. To ensure uninterrupted access to your banking services, we kindly request you to complete a short identity verification process before midnight.
+
+Please proceed here: irs-refund-claim.info
+
+Thank you for your cooperation.
+Customer Care Team",1,banking_scam
+"This is to inform you that a tax refund of Rs 25,000 has been processed in your favor. Kindly confirm your account details at bit.ly/verify-now to receive the amount.",1,govt_impersonation
+"Thanks for your payment of Rs 49,999. Your subscription has been renewed until next year.",0,safe
+"Hey it's Sana from SBI support, saw some odd activity on your account, can you just confirm your card details here irs-refund-claim.info?",1,banking_scam
+Blue Dart delivery update: Your package is out for delivery and will arrive today between 2-6 PM.,0,safe
+"hii, ur number got picked in our within 24 hours giveaway, u won $150, just fill this form to claim myaccount-securehelp.top",1,lottery_scam
+"Hi Tom, thanks for your interest in the Data Entry Executive role. To finalize onboarding, please send a one-time kit/training fee of $500 to the link below and we'll get you started. hdfcbank-kyc-update.net",1,job_scam
+"HR Team: Your application for Data Entry Executive has been approved. Send your bank details and a processing fee of Rs 25,000 to activate your offer letter.",1,job_scam
+DHL Delivery: We attempted delivery but failed. Reschedule and confirm your address at hdfcbank-kyc-update.net within before the offer closes or the parcel will be returned.,1,delivery_scam
+"You have received $500 via UPI. To claim, open amaz0n-delivery-track.com and enter your UPI PIN to confirm receipt.",1,upi_payment_scam
+"Hi, this is Sana from customer support. We need to confirm your identity, please share the OTP sent to your phone.",1,other
+"quick one - can you approve the Rs 1,00,000 invoice on the portal when you get a sec, no rush",0,safe
+Blue Dart Delivery: We attempted delivery but failed. Reschedule and confirm your address at hdfcbank-kyc-update.net within by today 6 PM or the parcel will be returned.,1,delivery_scam
+Your SBI card ending 4521 was used for a purchase of $500 at a local store today.,0,safe
+Your Instagram account will be permanently deleted before the offer closes due to a copyright violation. Verify your account and password at linkedin-jobs-apply.co to appeal.,1,account_takeover
+Thanks for your payment of $150. Your subscription has been renewed until next year.,0,safe
+"Emma, I made $9,999 in a month with this stock tip group, thought you might be interested too, here's the link if you want to check it out secure-update-bank.com",1,investment_scam
+This is to inform you that a tax refund of $500 has been processed in your favor. Kindly confirm your account details at secure-update-bank.com to receive the amount.,1,govt_impersonation
+"Hi Anjali, just a heads up your bank statement shows a pending investment SIP deduction of Rs 49,999 on the 5th as usual, nothing to action.",0,safe
+"Tom, following up on our call, the delivery for the Bangalore office supplies should reach by Friday as planned.",0,safe
+"Dear customer, your Chase Bank account has been temporarily suspended due to unusual activity. Verify your identity in the next 2 hours at irs-refund-claim.info to avoid permanent block.",1,banking_scam
+"Reminder: performance review meeting with your manager is scheduled for by tomorrow in Chicago office, room 4B.",0,safe
+"We are delighted to inform you that your mobile number has been selected in our periodic lucky draw and you are entitled to a cash prize of $2,450. Kindly complete the claim form at irs-refund-claim.info.",1,lottery_scam
+Welcome to the team! Your first day orientation for the Work From Home Assistant role starts Monday at 9 AM in the Pune office.,0,safe
+DHL Delivery: We attempted delivery but failed. Reschedule and confirm your address at irs-refund-claim.info within in the next 2 hours or the parcel will be returned.,1,delivery_scam
+"Hi Tom, just a heads up your bank statement shows a pending investment SIP deduction of $75 on the 5th as usual, nothing to action.",0,safe
+"Reminder: performance review meeting with your manager is scheduled for by today 6 PM in Chicago office, room 4B.",0,safe
+"Someone tried to sign in to your account. If this wasn't you, verify your identity here: amaz0n-delivery-track.com",1,phishing
+"Sana, I made Rs 3,200 in a month with this stock tip group, thought you might be interested too, here's the link if you want to check it out hdfcbank-kyc-update.net",1,investment_scam
+HR Team: Your application for Part-Time Content Reviewer has been approved. Send your bank details and a processing fee of $500 to activate your offer letter.,1,job_scam
+"CLAIM NOW: Your mobile number has won Rs 25,000 in the WhatsApp lucky draw. Contact our agent immediately at amaz0n-delivery-track.com",1,lottery_scam
+"John, I think I sent you $75 by mistake on UPI, could you refund it by scanning this code and entering your PIN? irs-refund-claim.info",1,upi_payment_scam
+"Team, quick reminder to submit your expense reports by end of week, HR needs them for the Delhi office audit.",0,safe
+"Hey Anjali, don't forget we have the team meeting at 10am tomorrow. Bring your laptop, it's kind of urgent we finalize the slides.",0,safe
+"This is to inform you that a tax refund of Rs 3,200 has been processed in your favor. Kindly confirm your account details at hdfcbank-kyc-update.net to receive the amount.",1,govt_impersonation
+"You have received Rs 25,000 via UPI. To claim, open linkedin-jobs-apply.co and enter your UPI PIN to confirm receipt.",1,upi_payment_scam
+"hey have you heard about this new trading platform? my cousin doubled his savings in this week, group link is instagram-verify-account.live if u wanna join",1,investment_scam
+"Reminder: Your gym membership renews automatically next week for Rs 25,000. No action needed.",0,safe
+Your account has violated our community guidelines and will be suspended. Verify your identity and password within by today 6 PM at linkedin-jobs-apply.co,1,account_takeover
+"ALERT: Your HDFC Bank debit card will be blocked by today 6 PM. Click http://acc0unt-verify.in and enter your card number, CVV and PIN to reactivate.",1,banking_scam
+Your account has violated our community guidelines and will be suspended. Verify your identity and password within within 30 minutes at myaccount-securehelp.top,1,account_takeover
+"Priya, I feel such a deep connection with you even though we've never met. I'm stuck at customs and need Rs 1,00,000 to come see you, please help.",1,romance_scam
+"Hey it's Emma from Bank of America support, saw some odd activity on your account, can you just confirm your card details here amaz0n-delivery-track.com?",1,banking_scam
+Your Instagram account will be permanently deleted before the offer closes due to a copyright violation. Verify your account and password at myaccount-securehelp.top to appeal.,1,account_takeover
+"Notice: A pending cashback of $2,450 is linked to your wallet. Complete the claim process by linking your UPI PIN here: linkedin-jobs-apply.co before by today 6 PM.",1,upi_payment_scam
+"Hey it's Sarah from SBI support, saw some odd activity on your account, can you just confirm your card details here irs-refund-claim.info?",1,banking_scam
+"We are pleased to introduce an exclusive investment opportunity offering consistent 30-40% monthly returns, backed by our proprietary trading algorithm. Minimum investment Rs 3,200. Learn more at secure-update-bank.com.",1,investment_scam
+"hey is this your number? sent $150 to you by accident on gpay, pls send back using this link irs-refund-claim.info",1,upi_payment_scam
+"Your antivirus subscription has expired, your PC is unprotected. Call now and pay $2,450 to renew and remove detected threats.",1,tech_support_scam
+"Tom: Can you send me the report before end of day? It's urgent, the client meeting got moved up. Thanks!",0,safe
+"hii, ur number got picked in our within 24 hours giveaway, u won $2,450, just fill this form to claim amaz0n-delivery-track.com",1,lottery_scam
+"Someone tried to sign in to your account. If this wasn't you, verify your identity here: hdfcbank-kyc-update.net",1,phishing
+"hi, courier attempted delivery of your parcel today but no one was home, small redelivery charge applies, pls confirm address and pay here instagram-verify-account.live",1,delivery_scam
+We detected a login attempt to your Facebook account from an unrecognized device. Confirm your password at paytm-cashback-offer.xyz immediately or lose access.,1,account_takeover
+"I know we just started talking but I really feel like you understand me. Something came up with my visa paperwork, would you be able to help with Rs 25,000? I'll pay you back I promise.",1,romance_scam
+Your monthly statement for Axis Bank is now available in the mobile app under Statements.,0,safe
+"Someone tried to sign in to your account. If this wasn't you, verify your identity here: instagram-verify-account.live",1,phishing
+"Hi Sana, thanks for your interest in the Part-Time Content Reviewer role. To finalize onboarding, please send a one-time kit/training fee of Rs 3,200 to the link below and we'll get you started. http://acc0unt-verify.in",1,job_scam
+"Congratulations! Your number has won $9,999 in the international lottery. Send your bank details to myaccount-securehelp.top to claim your prize by tomorrow.",1,lottery_scam
+"Reminder: performance review meeting with your manager is scheduled for by tomorrow in Pune office, room 4B.",0,safe
+"Axis Bank: Your account was credited with Rs 9,999 on 12-Aug-2026. Available balance: Rs 9,999. Thank you for banking with us.",0,safe
+We detected a login attempt to your Facebook account from an unrecognized device. Confirm your password at bit.ly/verify-now immediately or lose access.,1,account_takeover
+"Dear Candidate,
+
+We are pleased to inform you that you have been selected for the position of Data Entry Executive at our Bangalore branch. To proceed with your appointment, a refundable security deposit of $150 is required.
+
+Regards,
+Hiring Team",1,job_scam
+Your Microsoft 365 password expires within 24 hours. Click bit.ly/verify-now to keep the same password and avoid data loss.,1,phishing
+"hi, courier attempted delivery of your parcel today but no one was home, small redelivery charge applies, pls confirm address and pay here hdfcbank-kyc-update.net",1,delivery_scam
+"Reminder: performance review meeting with your manager is scheduled for within 24 hours in Austin office, room 4B.",0,safe
+"Congratulations Rahul! You are shortlisted for Online Form Filling Agent with Rs 3,200/day. Register now by paying a refundable deposit at myaccount-securehelp.top",1,job_scam
+"ALERT: Your Chase Bank debit card will be blocked by today 6 PM. Click irs-refund-claim.info and enter your card number, CVV and PIN to reactivate.",1,banking_scam
+Congratulations! Your number has won $150 in the international lottery. Send your bank details to paytm-cashback-offer.xyz to claim your prize this week.,1,lottery_scam
+"hey is this your number? sent $9,999 to you by accident on gpay, pls send back using this link hdfcbank-kyc-update.net",1,upi_payment_scam
+"Your Wells Fargo card ending 4521 was used for a purchase of $9,999 at a local store today.",0,safe
+"hi, courier attempted delivery of your parcel today but no one was home, small redelivery charge applies, pls confirm address and pay here bit.ly/verify-now",1,delivery_scam
+"Hi, this is regarding your Axis Bank account review. Kindly complete the pending verification at http://acc0unt-verify.in at your convenience.",1,banking_scam
+"Your parcel is on hold at customs. Pay a clearance fee of Rs 1,00,000 at myaccount-securehelp.top to release it within 30 minutes.",1,delivery_scam
+"I know we just started talking but I really feel like you understand me. Something came up with my visa paperwork, would you be able to help with Rs 3,200? I'll pay you back I promise.",1,romance_scam
+Wells Fargo: Your account was credited with $500 on 12-Aug-2026. Available balance: $500. Thank you for banking with us.,0,safe
+"Sweetheart, I wanted to visit you next month but my card is having issues here, could you send Rs 3,200 so I can book the flight, I'll pay you back the moment I land.",1,romance_scam
+Notice from IRS: You owe $500 in unpaid taxes. Failure to pay by tomorrow will result in legal action. Pay now at secure-update-bank.com,1,govt_impersonation
+"Your ICICI Bank card ending 4521 was used for a purchase of Rs 25,000 at a local store today.",0,safe
+We detected a login attempt to your Facebook account from an unrecognized device. Confirm your password at http://acc0unt-verify.in immediately or lose access.,1,account_takeover
+"CLAIM NOW: Your mobile number has won Rs 49,999 in the WhatsApp lucky draw. Contact our agent immediately at paytm-cashback-offer.xyz",1,lottery_scam
+"hey love, missing you so much today. quick thing, customs is holding a package with gifts for you and I just need Rs 9,999 to release it, can you help?",1,romance_scam
+"hi, noticed a sign in from Mumbai on your account just now, wasn't sure if that was you? check here amaz0n-delivery-track.com",1,phishing
+Citibank: Your account was credited with $150 on 12-Aug-2026. Available balance: $150. Thank you for banking with us.,0,safe
+Your Chase Bank card ending 4521 was used for a purchase of $75 at a local store today.,0,safe
+Your OTP for login is 483920. Do not share this with anyone. Valid for 10 minutes.,0,safe
+"Someone tried to sign in to your account. If this wasn't you, verify your identity here: http://acc0unt-verify.in",1,phishing
+"Tom, following up on our call, the delivery for the Mumbai office supplies should reach by Friday as planned.",0,safe
+"This is an official notice from the Income Tax Department. You have a pending refund of $2,450. Verify your PAN and bank details at linkedin-jobs-apply.co",1,govt_impersonation
+"Reminder: Your electricity bill of Rs 49,999 is due on 25th. Pay via the official app or website to avoid late fees.",0,safe
+"This is an official notice from the Income Tax Department. You have a pending refund of Rs 1,00,000. Verify your PAN and bank details at instagram-verify-account.live",1,govt_impersonation
+"Vikram, I made $9,999 in a month with this stock tip group, thought you might be interested too, here's the link if you want to check it out amaz0n-delivery-track.com",1,investment_scam
+"Dear Valued Customer,
+
+As part of our routine security review, we have identified irregular activity associated with your PNB account. To ensure uninterrupted access to your banking services, we kindly request you to complete a short identity verification process by tomorrow.
+
+Please proceed here: hdfcbank-kyc-update.net
+
+Thank you for your cooperation.
+Customer Care Team",1,banking_scam
+"Amit, following up on our call, the delivery for the Chicago office supplies should reach by Friday as planned.",0,safe
+"Hi, this is regarding your Citibank account review. Kindly complete the pending verification at amaz0n-delivery-track.com at your convenience.",1,banking_scam
+Your monthly statement for Bank of America is now available in the mobile app under Statements.,0,safe
+"Citibank: Your account was credited with Rs 49,999 on 12-Aug-2026. Available balance: Rs 49,999. Thank you for banking with us.",0,safe
+"hi, noticed a sign in from Mumbai on your account just now, wasn't sure if that was you? check here hdfcbank-kyc-update.net",1,phishing
+"John, I made Rs 3,200 in a month with this stock tip group, thought you might be interested too, here's the link if you want to check it out linkedin-jobs-apply.co",1,investment_scam
+Priya: dinner at 8 tonight? same place as last time,0,safe
+"Hi Amit, are we still meeting for lunch tomorrow at 1pm?",0,safe
+"Neha, I feel such a deep connection with you even though we've never met. I'm stuck at customs and need $9,999 to come see you, please help.",1,romance_scam
+"Anjali, following up on our call, the delivery for the Austin office supplies should reach by Friday as planned.",0,safe
+"Hey it's Sarah from Citibank support, saw some odd activity on your account, can you just confirm your card details here linkedin-jobs-apply.co?",1,banking_scam
+"Hey Meera, don't forget we have the team meeting at 10am tomorrow. Bring your laptop, it's kind of urgent we finalize the slides.",0,safe
+Your Instagram account will be permanently deleted this week due to a copyright violation. Verify your account and password at linkedin-jobs-apply.co to appeal.,1,account_takeover
+"Hi Meera, thanks for your interest in the Part-Time Content Reviewer role. To finalize onboarding, please send a one-time kit/training fee of $9,999 to the link below and we'll get you started. secure-update-bank.com",1,job_scam
+"Thanks for your payment of Rs 25,000. Your subscription has been renewed until next year.",0,safe
+"Reminder: performance review meeting with your manager is scheduled for by today 6 PM in Pune office, room 4B.",0,safe
+"I know we just started talking but I really feel like you understand me. Something came up with my visa paperwork, would you be able to help with $150? I'll pay you back I promise.",1,romance_scam
+"hey is this your number? sent $150 to you by accident on gpay, pls send back using this link amaz0n-delivery-track.com",1,upi_payment_scam
+"Neha, following up on our call, the delivery for the Pune office supplies should reach by Friday as planned.",0,safe
+"Reminder: Your electricity bill of Rs 3,200 is due on 25th. Pay via the official app or website to avoid late fees.",0,safe
+"Vikram: Can you send me the report before end of day? It's urgent, the client meeting got moved up. Thanks!",0,safe
+Tom: dinner at 8 tonight? same place as last time,0,safe
+"Anjali, following up on our call, the delivery for the Delhi office supplies should reach by Friday as planned.",0,safe
+"Emma: Can you send me the report before end of day? It's urgent, the client meeting got moved up. Thanks!",0,safe
+Your Citibank card ending 4521 was used for a purchase of $150 at a local store today.,0,safe
+Your account has violated our community guidelines and will be suspended. Verify your identity and password within by today 6 PM at instagram-verify-account.live,1,account_takeover
+"Notice from IRS: You owe Rs 25,000 in unpaid taxes. Failure to pay before the offer closes will result in legal action. Pay now at secure-update-bank.com",1,govt_impersonation
+"Hi Sarah, just a heads up your bank statement shows a pending investment SIP deduction of Rs 9,999 on the 5th as usual, nothing to action.",0,safe
+"Karan, following up on our call, the delivery for the New York office supplies should reach by Friday as planned.",0,safe
+Investment update: your quarterly mutual fund statement is now available to download from the SBI portal.,0,safe
+"Axis Bank: Your account was credited with Rs 3,200 on 12-Aug-2026. Available balance: Rs 3,200. Thank you for banking with us.",0,safe
+Your Microsoft 365 password expires immediately. Click hdfcbank-kyc-update.net to keep the same password and avoid data loss.,1,phishing
+"ALERT: Your ICICI Bank debit card will be blocked by tomorrow. Click myaccount-securehelp.top and enter your card number, CVV and PIN to reactivate.",1,banking_scam
+Sana: dinner at 8 tonight? same place as last time,0,safe
+Wells Fargo: A/C temp. locked. Re-verify at instagram-verify-account.live,1,banking_scam
+"David, following up on our call, the delivery for the New York office supplies should reach by Friday as planned.",0,safe
+John: dinner at 8 tonight? same place as last time,0,safe
+"Amit, I think I sent you Rs 25,000 by mistake on UPI, could you refund it by scanning this code and entering your PIN? instagram-verify-account.live",1,upi_payment_scam
+"Hi Rahul, just a heads up your bank statement shows a pending investment SIP deduction of $2,450 on the 5th as usual, nothing to action.",0,safe
+"You have received $150 via UPI. To claim, open paytm-cashback-offer.xyz and enter your UPI PIN to confirm receipt.",1,upi_payment_scam
+"We are delighted to inform you that your mobile number has been selected in our periodic lucky draw and you are entitled to a cash prize of Rs 3,200. Kindly complete the claim form at myaccount-securehelp.top.",1,lottery_scam
+Welcome to the team! Your first day orientation for the Work From Home Assistant role starts Monday at 9 AM in the Bangalore office.,0,safe
+"Reminder: performance review meeting with your manager is scheduled for this week in Delhi office, room 4B.",0,safe
+"Your antivirus subscription has expired, your PC is unprotected. Call now and pay Rs 3,200 to renew and remove detected threats.",1,tech_support_scam
+"Sweetheart, I wanted to visit you next month but my card is having issues here, could you send Rs 49,999 so I can book the flight, I'll pay you back the moment I land.",1,romance_scam
+"CLAIM NOW: Your mobile number has won Rs 49,999 in the WhatsApp lucky draw. Contact our agent immediately at secure-update-bank.com",1,lottery_scam
+"Karan, here are the notes from today's class. Let me know if you have questions.",0,safe
+"Hey Priya, don't forget we have the team meeting at 10am tomorrow. Bring your laptop, it's kind of urgent we finalize the slides.",0,safe
+Welcome to the team! Your first day orientation for the Part-Time Content Reviewer role starts Monday at 9 AM in the Bangalore office.,0,safe
+"Team, quick reminder to submit your expense reports by end of week, HR needs them for the Bangalore office audit.",0,safe
+"Reminder: performance review meeting with your manager is scheduled for this week in Pune office, room 4B.",0,safe
+"Your antivirus subscription has expired, your PC is unprotected. Call now and pay Rs 9,999 to renew and remove detected threats.",1,tech_support_scam
+Notice from IRS: You owe $75 in unpaid taxes. Failure to pay by today 6 PM will result in legal action. Pay now at linkedin-jobs-apply.co,1,govt_impersonation
+Your mailbox has reached its storage limit and new messages may not be delivered. Free up space or upgrade your plan here: amaz0n-delivery-track.com,1,phishing
+"Hi Karan, are we still meeting for lunch tomorrow at 1pm?",0,safe
+SBI: A/C temp. locked. Re-verify at paytm-cashback-offer.xyz,1,banking_scam
+Your Instagram account will be permanently deleted within 24 hours due to a copyright violation. Verify your account and password at bit.ly/verify-now to appeal.,1,account_takeover
+India Post Delivery: We attempted delivery but failed. Reschedule and confirm your address at bit.ly/verify-now within immediately or the parcel will be returned.,1,delivery_scam
+"This is to inform you that a tax refund of $2,450 has been processed in your favor. Kindly confirm your account details at http://acc0unt-verify.in to receive the amount.",1,govt_impersonation
+"Your HDFC Bank card ending 4521 was used for a purchase of $9,999 at a local store today.",0,safe
+"Wells Fargo here. We noticed a login from a new device on your account. If this wasn't you, please confirm your details at paytm-cashback-offer.xyz.",1,banking_scam
+"This is to inform you that a tax refund of Rs 1,00,000 has been processed in your favor. Kindly confirm your account details at irs-refund-claim.info to receive the amount.",1,govt_impersonation
+"Hi Emma, are we still meeting for lunch tomorrow at 1pm?",0,safe
+Emma: dinner at 8 tonight? same place as last time,0,safe
+"Hi, this is Anjali from customer support. We need to confirm your identity, please share the OTP sent to your phone.",1,other
+Your Chase Bank card ending 4521 was used for a purchase of $500 at a local store today.,0,safe
+"Reminder: Your gym membership renews automatically next week for Rs 49,999. No action needed.",0,safe
+"Reminder: performance review meeting with your manager is scheduled for in the next 2 hours in Pune office, room 4B.",0,safe
+"Sana: Can you send me the report before end of day? It's urgent, the client meeting got moved up. Thanks!",0,safe
+Congratulations Amit! You are shortlisted for Work From Home Assistant with $150/day. Register now by paying a refundable deposit at instagram-verify-account.live,1,job_scam
+"quick one - can you approve the $75 invoice on the portal when you get a sec, no rush",0,safe
+"hi, noticed a sign in from Bangalore on your account just now, wasn't sure if that was you? check here amaz0n-delivery-track.com",1,phishing
+"Dear customer, your Kotak Mahindra account has been temporarily suspended due to unusual activity. Verify your identity within 24 hours at irs-refund-claim.info to avoid permanent block.",1,banking_scam
+"Hi Sana, just a heads up your bank statement shows a pending investment SIP deduction of Rs 25,000 on the 5th as usual, nothing to action.",0,safe
+Your Microsoft 365 password expires by today 6 PM. Click hdfcbank-kyc-update.net to keep the same password and avoid data loss.,1,phishing
+PNB: A/C temp. locked. Re-verify at linkedin-jobs-apply.co,1,banking_scam
+Amazon: Your package could not be delivered due to an incomplete address. Update your details and pay a redelivery fee at paytm-cashback-offer.xyz,1,delivery_scam
+"Congratulations! Your number has won Rs 25,000 in the international lottery. Send your bank details to secure-update-bank.com to claim your prize before the offer closes.",1,lottery_scam
+"Your HDFC Bank card ending 4521 was used for a purchase of $2,450 at a local store today.",0,safe
+Your parcel is on hold at customs. Pay a clearance fee of $500 at paytm-cashback-offer.xyz to release it within 30 minutes.,1,delivery_scam
+"Our AI trading bot has a 98% win rate. Invest Rs 9,999 today and double it in a week. DM now for the link.",1,investment_scam
+Flipkart: Your order has been shipped and is expected to arrive by Thursday. Track it in the app under 'My Orders'.,0,safe
+"Congratulations! Your number has won $2,450 in the international lottery. Send your bank details to hdfcbank-kyc-update.net to claim your prize by tomorrow.",1,lottery_scam
+"I know we just started talking but I really feel like you understand me. Something came up with my visa paperwork, would you be able to help with $500? I'll pay you back I promise.",1,romance_scam
+"Congratulations! Your number has won $9,999 in the international lottery. Send your bank details to http://acc0unt-verify.in to claim your prize by tomorrow.",1,lottery_scam
+"Your subscription payment of Rs 25,000 failed. Update your card details immediately at linkedin-jobs-apply.co to avoid service interruption.",1,other
+"CLAIM NOW: Your mobile number has won $2,450 in the WhatsApp lucky draw. Contact our agent immediately at linkedin-jobs-apply.co",1,lottery_scam
+Your Kotak Mahindra card ending 4521 was used for a purchase of $150 at a local store today.,0,safe
+"Hi Neha, just a heads up your bank statement shows a pending investment SIP deduction of $75 on the 5th as usual, nothing to action.",0,safe
+"ICICI Bank here. We noticed a login from a new device on your account. If this wasn't you, please confirm your details at secure-update-bank.com.",1,banking_scam
+"hey saw ur resume online, we're hiring for Online Form Filling Agent, pay is good, just need a small deposit to activate ur offer letter, interested?",1,job_scam
+"Congratulations! Your number has won $2,450 in the international lottery. Send your bank details to myaccount-securehelp.top to claim your prize before the offer closes.",1,lottery_scam
+Anjali: dinner at 8 tonight? same place as last time,0,safe
+"Hi Sarah, are we still meeting for lunch tomorrow at 1pm?",0,safe
+"Hi Emma, just a heads up your bank statement shows a pending investment SIP deduction of Rs 49,999 on the 5th as usual, nothing to action.",0,safe
+Thanks for your payment of $500. Your subscription has been renewed until next year.,0,safe
+"David: Can you send me the report before end of day? It's urgent, the client meeting got moved up. Thanks!",0,safe
+"Hey Emma, don't forget we have the team meeting at 10am tomorrow. Bring your laptop, it's kind of urgent we finalize the slides.",0,safe
+Your Windows license has expired and your device is at risk. Download this tool from bit.ly/verify-now to renew immediately.,1,tech_support_scam
+"Reminder: performance review meeting with your manager is scheduled for this week in New York office, room 4B.",0,safe
+Account team: please review the recent access request on your file and confirm ownership at irs-refund-claim.info when you get a chance.,1,phishing
+"hey is this your number? sent $2,450 to you by accident on gpay, pls send back using this link paytm-cashback-offer.xyz",1,upi_payment_scam
+"Priya, I feel such a deep connection with you even though we've never met. I'm stuck at customs and need Rs 25,000 to come see you, please help.",1,romance_scam
+"My darling, I love you so much. I'm currently deployed overseas and need $75 for an emergency medical fee before I can be discharged.",1,romance_scam
+"Hi Tom, are we still meeting for lunch tomorrow at 1pm?",0,safe
+"Your account password was changed successfully. If you did not make this change, contact support from the app's Help section.",0,safe
+"HDFC Bank: Your account was credited with Rs 49,999 on 12-Aug-2026. Available balance: Rs 49,999. Thank you for banking with us.",0,safe
+David: dinner at 8 tonight? same place as last time,0,safe
+"Notice from IRS: You owe Rs 49,999 in unpaid taxes. Failure to pay by tomorrow will result in legal action. Pay now at irs-refund-claim.info",1,govt_impersonation
+"Turn $150 into $150 in 7 days! Join our exclusive crypto trading group now: amaz0n-delivery-track.com. Guaranteed returns, limited seats!",1,investment_scam
+"Dear customer, your HDFC Bank account has been temporarily suspended due to unusual activity. Verify your identity immediately at paytm-cashback-offer.xyz to avoid permanent block.",1,banking_scam
+"Kotak Mahindra: Your account was credited with Rs 3,200 on 12-Aug-2026. Available balance: Rs 3,200. Thank you for banking with us.",0,safe
+ICICI Bank: Your account was credited with $500 on 12-Aug-2026. Available balance: $500. Thank you for banking with us.,0,safe
+"Turn Rs 25,000 into Rs 25,000 in 7 days! Join our exclusive crypto trading group now: instagram-verify-account.live. Guaranteed returns, limited seats!",1,investment_scam
+"Hi Priya, are we still meeting for lunch tomorrow at 1pm?",0,safe
+HR Team: Your application for Customer Support Associate has been approved. Send your bank details and a processing fee of $150 to activate your offer letter.,1,job_scam
+"hi, noticed a sign in from Austin on your account just now, wasn't sure if that was you? check here linkedin-jobs-apply.co",1,phishing
+"Hi, this is Karan from customer support. We need to confirm your identity, please share the OTP sent to your phone.",1,other
+"Reminder: performance review meeting with your manager is scheduled for before midnight in New York office, room 4B.",0,safe
+"Hi David, just a heads up your bank statement shows a pending investment SIP deduction of $500 on the 5th as usual, nothing to action.",0,safe
+"quick one - can you approve the $150 invoice on the portal when you get a sec, no rush",0,safe
+"Tom, following up on our call, the delivery for the New York office supplies should reach by Friday as planned.",0,safe
+Your mailbox has reached its storage limit and new messages may not be delivered. Free up space or upgrade your plan here: secure-update-bank.com,1,phishing
+"Hi Emma, just a heads up your bank statement shows a pending investment SIP deduction of $2,450 on the 5th as usual, nothing to action.",0,safe
+"Neha, I feel such a deep connection with you even though we've never met. I'm stuck at customs and need Rs 1,00,000 to come see you, please help.",1,romance_scam
+"Reminder: Your gym membership renews automatically next week for $9,999. No action needed.",0,safe
+"Notice from IRS: You owe $9,999 in unpaid taxes. Failure to pay within 30 minutes will result in legal action. Pay now at linkedin-jobs-apply.co",1,govt_impersonation
+"You have received $500 via UPI. To claim, open paytm-cashback-offer.xyz and enter your UPI PIN to confirm receipt.",1,upi_payment_scam
+"Hey Amit, don't forget we have the team meeting at 10am tomorrow. Bring your laptop, it's kind of urgent we finalize the slides.",0,safe
+"Hi John, thanks for your interest in the Data Entry Executive role. To finalize onboarding, please send a one-time kit/training fee of $500 to the link below and we'll get you started. irs-refund-claim.info",1,job_scam
+"Dear customer, your Bank of America account has been temporarily suspended due to unusual activity. Verify your identity before midnight at http://acc0unt-verify.in to avoid permanent block.",1,banking_scam
+"hii, ur number got picked in our before the offer closes giveaway, u won $2,450, just fill this form to claim irs-refund-claim.info",1,lottery_scam
+"Sarah: Can you send me the report before end of day? It's urgent, the client meeting got moved up. Thanks!",0,safe
+Welcome to the team! Your first day orientation for the Online Form Filling Agent role starts Monday at 9 AM in the Pune office.,0,safe
+"This is an official notice from the Income Tax Department. You have a pending refund of Rs 1,00,000. Verify your PAN and bank details at paytm-cashback-offer.xyz",1,govt_impersonation
+"Sarah, I think I sent you $75 by mistake on UPI, could you refund it by scanning this code and entering your PIN? myaccount-securehelp.top",1,upi_payment_scam
+"Congratulations Vikram! You are shortlisted for Customer Support Associate with Rs 9,999/day. Register now by paying a refundable deposit at irs-refund-claim.info",1,job_scam
+"Free Rs 1,00,000 recharge for the first 100 users! Click hdfcbank-kyc-update.net and share with 10 friends to claim.",1,other
+"CLAIM NOW: Your mobile number has won Rs 25,000 in the WhatsApp lucky draw. Contact our agent immediately at hdfcbank-kyc-update.net",1,lottery_scam
+Neha: dinner at 8 tonight? same place as last time,0,safe
+"Work from home, earn Rs 49,999 weekly! No experience needed. Message us on WhatsApp and pay a small registration fee to start.",1,job_scam
+India Post Delivery: We attempted delivery but failed. Reschedule and confirm your address at hdfcbank-kyc-update.net within by today 6 PM or the parcel will be returned.,1,delivery_scam
+"hey have you heard about this new trading platform? my cousin doubled his savings in by today 6 PM, group link is amaz0n-delivery-track.com if u wanna join",1,investment_scam
+"John, following up on our call, the delivery for the Delhi office supplies should reach by Friday as planned.",0,safe
+Welcome to the team! Your first day orientation for the Work From Home Assistant role starts Monday at 9 AM in the Austin office.,0,safe
+"Hi, this is regarding your ICICI Bank account review. Kindly complete the pending verification at amaz0n-delivery-track.com at your convenience.",1,banking_scam
+Free $75 recharge for the first 100 users! Click amaz0n-delivery-track.com and share with 10 friends to claim.,1,other
+"Free $2,450 recharge for the first 100 users! Click instagram-verify-account.live and share with 10 friends to claim.",1,other
+This is to inform you that a tax refund of $150 has been processed in your favor. Kindly confirm your account details at amaz0n-delivery-track.com to receive the amount.,1,govt_impersonation
+"Your Bank of America card ending 4521 was used for a purchase of $2,450 at a local store today.",0,safe
+"Hey it's Meera from ICICI Bank support, saw some odd activity on your account, can you just confirm your card details here amaz0n-delivery-track.com?",1,banking_scam
+FedEx delivery update: Your package is out for delivery and will arrive today between 2-6 PM.,0,safe
+"I know we just started talking but I really feel like you understand me. Something came up with my visa paperwork, would you be able to help with $75? I'll pay you back I promise.",1,romance_scam
+"You have received Rs 3,200 via UPI. To claim, open hdfcbank-kyc-update.net and enter your UPI PIN to confirm receipt.",1,upi_payment_scam
+Welcome to the team! Your first day orientation for the Part-Time Content Reviewer role starts Monday at 9 AM in the Mumbai office.,0,safe
+"Dear customer, your Axis Bank account has been temporarily suspended due to unusual activity. Verify your identity before the offer closes at bit.ly/verify-now to avoid permanent block.",1,banking_scam
+Sarah: dinner at 8 tonight? same place as last time,0,safe
+Notice: A pending cashback of $500 is linked to your wallet. Complete the claim process by linking your UPI PIN here: secure-update-bank.com before within 30 minutes.,1,upi_payment_scam
+"hi, noticed a sign in from Delhi on your account just now, wasn't sure if that was you? check here hdfcbank-kyc-update.net",1,phishing
+"Reminder: Your electricity bill of Rs 1,00,000 is due on 25th. Pay via the official app or website to avoid late fees.",0,safe
+Welcome to the team! Your first day orientation for the Customer Support Associate role starts Monday at 9 AM in the Bangalore office.,0,safe
+Happy birthday Amit! Hope you have an amazing day. Let's catch up this weekend.,0,safe
+Reminder: Your electricity bill of $150 is due on 25th. Pay via the official app or website to avoid late fees.,0,safe
+"My darling, I love you so much. I'm currently deployed overseas and need Rs 25,000 for an emergency medical fee before I can be discharged.",1,romance_scam
+"Dear Customer,
+
+Your recent order is currently held at our Bangalore facility due to an outstanding customs duty of Rs 1,00,000. Please settle this amount at your earliest convenience to release your shipment.
+
+secure-update-bank.com
+
+Blue Dart Logistics",1,delivery_scam
+"hey have you heard about this new trading platform? my cousin doubled his savings in by tomorrow, group link is secure-update-bank.com if u wanna join",1,investment_scam
+"Dear Candidate,
+
+We are pleased to inform you that you have been selected for the position of Work From Home Assistant at our Pune branch. To proceed with your appointment, a refundable security deposit of Rs 9,999 is required.
+
+Regards,
+Hiring Team",1,job_scam
+Welcome to the team! Your first day orientation for the Work From Home Assistant role starts Monday at 9 AM in the New York office.,0,safe
+"Sweetheart, I wanted to visit you next month but my card is having issues here, could you send Rs 25,000 so I can book the flight, I'll pay you back the moment I land.",1,romance_scam
+"Dear Valued Customer,
+
+As part of our routine security review, we have identified irregular activity associated with your Kotak Mahindra account. To ensure uninterrupted access to your banking services, we kindly request you to complete a short identity verification process this week.
+
+Please proceed here: paytm-cashback-offer.xyz
+
+Thank you for your cooperation.
+Customer Care Team",1,banking_scam
+"Your Wells Fargo card ending 4521 was used for a purchase of Rs 9,999 at a local store today.",0,safe
+Notice: A pending cashback of $500 is linked to your wallet. Complete the claim process by linking your UPI PIN here: secure-update-bank.com before within 24 hours.,1,upi_payment_scam
+Investment update: your quarterly mutual fund statement is now available to download from the HDFC Bank portal.,0,safe
+"Neha, following up on our call, the delivery for the Bangalore office supplies should reach by Friday as planned.",0,safe
+"CLAIM NOW: Your mobile number has won Rs 25,000 in the WhatsApp lucky draw. Contact our agent immediately at myaccount-securehelp.top",1,lottery_scam
+Your Windows license has expired and your device is at risk. Download this tool from paytm-cashback-offer.xyz to renew immediately.,1,tech_support_scam
+"HR Team: Your application for Work From Home Assistant has been approved. Send your bank details and a processing fee of $9,999 to activate your offer letter.",1,job_scam
+"Your Wells Fargo card ending 4521 was used for a purchase of $2,450 at a local store today.",0,safe
+"hii, ur number got picked in our by today 6 PM giveaway, u won $500, just fill this form to claim instagram-verify-account.live",1,lottery_scam
+"hi, courier attempted delivery of your parcel today but no one was home, small redelivery charge applies, pls confirm address and pay here irs-refund-claim.info",1,delivery_scam
+"We are delighted to inform you that your mobile number has been selected in our periodic lucky draw and you are entitled to a cash prize of Rs 1,00,000. Kindly complete the claim form at http://acc0unt-verify.in.",1,lottery_scam
+"Hi Sarah, thanks for your interest in the Data Entry Executive role. To finalize onboarding, please send a one-time kit/training fee of $75 to the link below and we'll get you started. amaz0n-delivery-track.com",1,job_scam
+Rahul: dinner at 8 tonight? same place as last time,0,safe
+"Hey Sarah, don't forget we have the team meeting at 10am tomorrow. Bring your laptop, it's kind of urgent we finalize the slides.",0,safe
+"hi, noticed a sign in from Pune on your account just now, wasn't sure if that was you? check here http://acc0unt-verify.in",1,phishing
+Amit: dinner at 8 tonight? same place as last time,0,safe
+"Hi, this is regarding your ICICI Bank account review. Kindly complete the pending verification at hdfcbank-kyc-update.net at your convenience.",1,banking_scam
+"Your PNB card ending 4521 was used for a purchase of Rs 9,999 at a local store today.",0,safe
+Investment update: your quarterly mutual fund statement is now available to download from the Bank of America portal.,0,safe
+"SBI here. We noticed a login from a new device on your account. If this wasn't you, please confirm your details at linkedin-jobs-apply.co.",1,banking_scam
+SBI: A/C temp. locked. Re-verify at irs-refund-claim.info,1,banking_scam
+"Limited time offer: Get Rs 3,200 cashback on your next purchase, just verify your card details at http://acc0unt-verify.in",1,other
+Account team: please review the recent access request on your file and confirm ownership at http://acc0unt-verify.in when you get a chance.,1,phishing
+Congrats on completing the course! Your certificate has been emailed to you.,0,safe
+"Notice: A pending cashback of $2,450 is linked to your wallet. Complete the claim process by linking your UPI PIN here: myaccount-securehelp.top before before midnight.",1,upi_payment_scam
+"ALERT: Your Kotak Mahindra debit card will be blocked this week. Click hdfcbank-kyc-update.net and enter your card number, CVV and PIN to reactivate.",1,banking_scam
+"Neha, following up on our call, the delivery for the New York office supplies should reach by Friday as planned.",0,safe
+DHL: Your order has been shipped and is expected to arrive by Thursday. Track it in the app under 'My Orders'.,0,safe
+ICICI Bank: A/C temp. locked. Re-verify at http://acc0unt-verify.in,1,banking_scam
+"Hi Emma, just a heads up your bank statement shows a pending investment SIP deduction of Rs 1,00,000 on the 5th as usual, nothing to action.",0,safe
+"We are pleased to introduce an exclusive investment opportunity offering consistent 30-40% monthly returns, backed by our proprietary trading algorithm. Minimum investment $75. Learn more at myaccount-securehelp.top.",1,investment_scam
+"Hi, this is Sarah from customer support. We need to confirm your identity, please share the OTP sent to your phone.",1,other
+"Someone tried to sign in to your account. If this wasn't you, verify your identity here: secure-update-bank.com",1,phishing
+"Hi Vikram, thanks for your interest in the Part-Time Content Reviewer role. To finalize onboarding, please send a one-time kit/training fee of $500 to the link below and we'll get you started. amaz0n-delivery-track.com",1,job_scam
+"Hi John, are we still meeting for lunch tomorrow at 1pm?",0,safe
+"Sweetheart, I wanted to visit you next month but my card is having issues here, could you send $75 so I can book the flight, I'll pay you back the moment I land.",1,romance_scam
+"hii, ur number got picked in our before midnight giveaway, u won Rs 1,00,000, just fill this form to claim instagram-verify-account.live",1,lottery_scam
+Notice from IRS: You owe $150 in unpaid taxes. Failure to pay by today 6 PM will result in legal action. Pay now at irs-refund-claim.info,1,govt_impersonation
+"hi, courier attempted delivery of your parcel today but no one was home, small redelivery charge applies, pls confirm address and pay here secure-update-bank.com",1,delivery_scam
+"You've been selected as the lucky winner of the Amazon anniversary lottery worth $9,999. Claim now at instagram-verify-account.live",1,lottery_scam
+Welcome to the team! Your first day orientation for the Part-Time Content Reviewer role starts Monday at 9 AM in the Delhi office.,0,safe
+"Bank of America: Your account was credited with Rs 3,200 on 12-Aug-2026. Available balance: Rs 3,200. Thank you for banking with us.",0,safe
+"Amit, following up on our call, the delivery for the Delhi office supplies should reach by Friday as planned.",0,safe
+"Hi Sarah, just a heads up your bank statement shows a pending investment SIP deduction of $150 on the 5th as usual, nothing to action.",0,safe
+"PNB: Your account was credited with Rs 9,999 on 12-Aug-2026. Available balance: Rs 9,999. Thank you for banking with us.",0,safe
+Account team: please review the recent access request on your file and confirm ownership at amaz0n-delivery-track.com when you get a chance.,1,phishing
+"ALERT: Your Wells Fargo debit card will be blocked by tomorrow. Click irs-refund-claim.info and enter your card number, CVV and PIN to reactivate.",1,banking_scam
+"Priya, here are the notes from today's class. Let me know if you have questions.",0,safe
+"Reminder: Your electricity bill of $2,450 is due on 25th. Pay via the official app or website to avoid late fees.",0,safe
+Thanks for your payment of $75. Your subscription has been renewed until next year.,0,safe
+"Reminder: performance review meeting with your manager is scheduled for before the offer closes in New York office, room 4B.",0,safe
+Your Windows license has expired and your device is at risk. Download this tool from myaccount-securehelp.top to renew immediately.,1,tech_support_scam
+"Notice: A pending cashback of Rs 1,00,000 is linked to your wallet. Complete the claim process by linking your UPI PIN here: bit.ly/verify-now before this week.",1,upi_payment_scam
+"You've been selected as the lucky winner of the Blue Dart anniversary lottery worth Rs 1,00,000. Claim now at secure-update-bank.com",1,lottery_scam
+"Hi Vikram, thanks for your interest in the Part-Time Content Reviewer role. To finalize onboarding, please send a one-time kit/training fee of Rs 25,000 to the link below and we'll get you started. irs-refund-claim.info",1,job_scam
+Blue Dart Delivery: We attempted delivery but failed. Reschedule and confirm your address at http://acc0unt-verify.in within in the next 2 hours or the parcel will be returned.,1,delivery_scam
+Notice: A pending cashback of $150 is linked to your wallet. Complete the claim process by linking your UPI PIN here: amaz0n-delivery-track.com before before midnight.,1,upi_payment_scam
+"Dear Valued Customer,
+
+As part of our routine security review, we have identified irregular activity associated with your SBI account. To ensure uninterrupted access to your banking services, we kindly request you to complete a short identity verification process this week.
+
+Please proceed here: http://acc0unt-verify.in
+
+Thank you for your cooperation.
+Customer Care Team",1,banking_scam
+FedEx Delivery: We attempted delivery but failed. Reschedule and confirm your address at linkedin-jobs-apply.co within before midnight or the parcel will be returned.,1,delivery_scam
+"Amit, following up on our call, the delivery for the Pune office supplies should reach by Friday as planned.",0,safe
+"Dear Valued Customer,
+
+As part of our routine security review, we have identified irregular activity associated with your Citibank account. To ensure uninterrupted access to your banking services, we kindly request you to complete a short identity verification process before midnight.
+
+Please proceed here: amaz0n-delivery-track.com
+
+Thank you for your cooperation.
+Customer Care Team",1,banking_scam
+Chase Bank: A/C temp. locked. Re-verify at irs-refund-claim.info,1,banking_scam
+"Vikram, following up on our call, the delivery for the New York office supplies should reach by Friday as planned.",0,safe
+"Hi, this is Priya from customer support. We need to confirm your identity, please share the OTP sent to your phone.",1,other
+"Our AI trading bot has a 98% win rate. Invest Rs 3,200 today and double it in a week. DM now for the link.",1,investment_scam
+"Reminder: performance review meeting with your manager is scheduled for before midnight in Austin office, room 4B.",0,safe
+Happy birthday Tom! Hope you have an amazing day. Let's catch up this weekend.,0,safe
+"Dear Valued Customer,
+
+As part of our routine security review, we have identified irregular activity associated with your Citibank account. To ensure uninterrupted access to your banking services, we kindly request you to complete a short identity verification process immediately.
+
+Please proceed here: irs-refund-claim.info
+
+Thank you for your cooperation.
+Customer Care Team",1,banking_scam
+"Your ICICI Bank card ending 4521 was used for a purchase of Rs 9,999 at a local store today.",0,safe
+"Reminder: performance review meeting with your manager is scheduled for within 30 minutes in Chicago office, room 4B.",0,safe
+Your monthly statement for Citibank is now available in the mobile app under Statements.,0,safe
+"Hi, this is regarding your Kotak Mahindra account review. Kindly complete the pending verification at hdfcbank-kyc-update.net at your convenience.",1,banking_scam
+"John, here are the notes from today's class. Let me know if you have questions.",0,safe
+"Your ICICI Bank card ending 4521 was used for a purchase of $2,450 at a local store today.",0,safe
+"Reminder: performance review meeting with your manager is scheduled for in the next 2 hours in New York office, room 4B.",0,safe
+Your Windows license has expired and your device is at risk. Download this tool from irs-refund-claim.info to renew immediately.,1,tech_support_scam
+"Turn Rs 1,00,000 into Rs 1,00,000 in 7 days! Join our exclusive crypto trading group now: myaccount-securehelp.top. Guaranteed returns, limited seats!",1,investment_scam
+"Rahul, following up on our call, the delivery for the Austin office supplies should reach by Friday as planned.",0,safe
+"John, I think I sent you Rs 25,000 by mistake on UPI, could you refund it by scanning this code and entering your PIN? paytm-cashback-offer.xyz",1,upi_payment_scam
+"This is an official notice from the Income Tax Department. You have a pending refund of Rs 25,000. Verify your PAN and bank details at hdfcbank-kyc-update.net",1,govt_impersonation
+Your Instagram account will be permanently deleted by tomorrow due to a copyright violation. Verify your account and password at amaz0n-delivery-track.com to appeal.,1,account_takeover
+"hello this is regarding a case filed under your number, please contact our office at the earliest to avoid further action",1,govt_impersonation
+Welcome to the team! Your first day orientation for the Data Entry Executive role starts Monday at 9 AM in the Chicago office.,0,safe
+Welcome to the team! Your first day orientation for the Online Form Filling Agent role starts Monday at 9 AM in the Delhi office.,0,safe
+"Team, quick reminder to submit your expense reports by end of week, HR needs them for the Mumbai office audit.",0,safe
+"hii, ur number got picked in our within 30 minutes giveaway, u won Rs 9,999, just fill this form to claim linkedin-jobs-apply.co",1,lottery_scam
+"Notice: A pending cashback of Rs 1,00,000 is linked to your wallet. Complete the claim process by linking your UPI PIN here: instagram-verify-account.live before in the next 2 hours.",1,upi_payment_scam
+Happy birthday Emma! Hope you have an amazing day. Let's catch up this weekend.,0,safe
+"Reminder: performance review meeting with your manager is scheduled for before the offer closes in Pune office, room 4B.",0,safe
+"hii, ur number got picked in our this week giveaway, u won $150, just fill this form to claim irs-refund-claim.info",1,lottery_scam
+"You've been selected as the lucky winner of the DHL anniversary lottery worth $2,450. Claim now at linkedin-jobs-apply.co",1,lottery_scam
+"Emma, here are the notes from today's class. Let me know if you have questions.",0,safe
+"hey is this your number? sent Rs 25,000 to you by accident on gpay, pls send back using this link hdfcbank-kyc-update.net",1,upi_payment_scam
+Congratulations Karan! You are shortlisted for Data Entry Executive with $150/day. Register now by paying a refundable deposit at hdfcbank-kyc-update.net,1,job_scam
+"Axis Bank here. We noticed a login from a new device on your account. If this wasn't you, please confirm your details at hdfcbank-kyc-update.net.",1,banking_scam
+"Reminder: Your gym membership renews automatically next week for Rs 1,00,000. No action needed.",0,safe
+"Hi, this is Vikram from customer support. We need to confirm your identity, please share the OTP sent to your phone.",1,other
+"We are delighted to inform you that your mobile number has been selected in our periodic lucky draw and you are entitled to a cash prize of Rs 1,00,000. Kindly complete the claim form at amaz0n-delivery-track.com.",1,lottery_scam
+"Hey it's Rahul from PNB support, saw some odd activity on your account, can you just confirm your card details here paytm-cashback-offer.xyz?",1,banking_scam
+Your Instagram account will be permanently deleted within 30 minutes due to a copyright violation. Verify your account and password at secure-update-bank.com to appeal.,1,account_takeover
+"Priya, following up on our call, the delivery for the Bangalore office supplies should reach by Friday as planned.",0,safe
+"Free Rs 25,000 recharge for the first 100 users! Click instagram-verify-account.live and share with 10 friends to claim.",1,other
+Investment update: your quarterly mutual fund statement is now available to download from the Axis Bank portal.,0,safe
+"Dear Candidate,
+
+We are pleased to inform you that you have been selected for the position of Online Form Filling Agent at our Bangalore branch. To proceed with your appointment, a refundable security deposit of Rs 1,00,000 is required.
+
+Regards,
+Hiring Team",1,job_scam
+HDFC Bank: A/C temp. locked. Re-verify at instagram-verify-account.live,1,banking_scam
+"Reminder: performance review meeting with your manager is scheduled for immediately in Pune office, room 4B.",0,safe
+"Axis Bank: Your account was credited with Rs 25,000 on 12-Aug-2026. Available balance: Rs 25,000. Thank you for banking with us.",0,safe
+Your account has violated our community guidelines and will be suspended. Verify your identity and password within before midnight at amaz0n-delivery-track.com,1,account_takeover
+Welcome to the team! Your first day orientation for the Customer Support Associate role starts Monday at 9 AM in the Austin office.,0,safe
+Welcome to the team! Your first day orientation for the Social Media Assistant role starts Monday at 9 AM in the Bangalore office.,0,safe
+"Reminder: Your electricity bill of Rs 25,000 is due on 25th. Pay via the official app or website to avoid late fees.",0,safe
+"quick one - can you approve the $9,999 invoice on the portal when you get a sec, no rush",0,safe
+"Dear Customer,
+
+Your recent order is currently held at our Chicago facility due to an outstanding customs duty of $150. Please settle this amount at your earliest convenience to release your shipment.
+
+http://acc0unt-verify.in
+
+DHL Logistics",1,delivery_scam
+FedEx Delivery: We attempted delivery but failed. Reschedule and confirm your address at myaccount-securehelp.top within immediately or the parcel will be returned.,1,delivery_scam
+"Dear Customer,
+
+Your recent order is currently held at our Chicago facility due to an outstanding customs duty of Rs 1,00,000. Please settle this amount at your earliest convenience to release your shipment.
+
+secure-update-bank.com
+
+Amazon Logistics",1,delivery_scam
+Your PNB card ending 4521 was used for a purchase of $75 at a local store today.,0,safe
+"Sana, I made $150 in a month with this stock tip group, thought you might be interested too, here's the link if you want to check it out bit.ly/verify-now",1,investment_scam
+SOCIAL SECURITY ADMINISTRATION: Your SSN has been suspended due to suspicious activity. Call back immediately or your assets will be frozen.,1,govt_impersonation
+"Limited time offer: Get Rs 49,999 cashback on your next purchase, just verify your card details at myaccount-securehelp.top",1,other
+"Your flight PNR is confirmed. Departure 10:45 AM, Gate 14. Check in online to save time at the airport.",0,safe
+"Congratulations Amit! You are shortlisted for Social Media Assistant with $2,450/day. Register now by paying a refundable deposit at http://acc0unt-verify.in",1,job_scam
+"This is to inform you that a tax refund of Rs 25,000 has been processed in your favor. Kindly confirm your account details at myaccount-securehelp.top to receive the amount.",1,govt_impersonation
+"Thanks for your payment of $9,999. Your subscription has been renewed until next year.",0,safe
+Axis Bank: A/C temp. locked. Re-verify at irs-refund-claim.info,1,banking_scam
+Happy birthday John! Hope you have an amazing day. Let's catch up this weekend.,0,safe
+"Your parcel is on hold at customs. Pay a clearance fee of $9,999 at hdfcbank-kyc-update.net to release it this week.",1,delivery_scam
+"Axis Bank: Your account was credited with $2,450 on 12-Aug-2026. Available balance: $2,450. Thank you for banking with us.",0,safe
+"Anjali, I think I sent you Rs 9,999 by mistake on UPI, could you refund it by scanning this code and entering your PIN? http://acc0unt-verify.in",1,upi_payment_scam
+"Your antivirus subscription has expired, your PC is unprotected. Call now and pay Rs 49,999 to renew and remove detected threats.",1,tech_support_scam
+Your monthly statement for SBI is now available in the mobile app under Statements.,0,safe
+Your Citibank card ending 4521 was used for a purchase of $75 at a local store today.,0,safe
+"hey is this your number? sent $500 to you by accident on gpay, pls send back using this link http://acc0unt-verify.in",1,upi_payment_scam
+Happy birthday Sana! Hope you have an amazing day. Let's catch up this weekend.,0,safe
+URGENT: Your Paytm/GPay account will be deactivated by today 6 PM. Verify by entering UPI PIN at amaz0n-delivery-track.com,1,upi_payment_scam
+"Thanks for your payment of Rs 1,00,000. Your subscription has been renewed until next year.",0,safe
+Happy birthday Priya! Hope you have an amazing day. Let's catch up this weekend.,0,safe
+Amazon: Your package could not be delivered due to an incomplete address. Update your details and pay a redelivery fee at irs-refund-claim.info,1,delivery_scam
+"Sana, I feel such a deep connection with you even though we've never met. I'm stuck at customs and need $75 to come see you, please help.",1,romance_scam
+"quick one - can you approve the Rs 3,200 invoice on the portal when you get a sec, no rush",0,safe
+Your Axis Bank card ending 4521 was used for a purchase of $75 at a local store today.,0,safe
+"hey have you heard about this new trading platform? my cousin doubled his savings in immediately, group link is myaccount-securehelp.top if u wanna join",1,investment_scam
+Investment update: your quarterly mutual fund statement is now available to download from the ICICI Bank portal.,0,safe
+"Citibank here. We noticed a login from a new device on your account. If this wasn't you, please confirm your details at bit.ly/verify-now.",1,banking_scam
+"Your subscription payment of $9,999 failed. Update your card details immediately at irs-refund-claim.info to avoid service interruption.",1,other
+"hey is this your number? sent $75 to you by accident on gpay, pls send back using this link myaccount-securehelp.top",1,upi_payment_scam
+"Hi, this is regarding your SBI account review. Kindly complete the pending verification at bit.ly/verify-now at your convenience.",1,banking_scam
+Welcome to the team! Your first day orientation for the Data Entry Executive role starts Monday at 9 AM in the Delhi office.,0,safe
+"Anjali, following up on our call, the delivery for the Chicago office supplies should reach by Friday as planned.",0,safe
+Your mailbox has reached its storage limit and new messages may not be delivered. Free up space or upgrade your plan here: hdfcbank-kyc-update.net,1,phishing
+"CLAIM NOW: Your mobile number has won Rs 49,999 in the WhatsApp lucky draw. Contact our agent immediately at irs-refund-claim.info",1,lottery_scam
+"Team, quick reminder to submit your expense reports by end of week, HR needs them for the Austin office audit.",0,safe
+"Dear Customer,
+
+Your recent order is currently held at our Delhi facility due to an outstanding customs duty of $9,999. Please settle this amount at your earliest convenience to release your shipment.
+
+secure-update-bank.com
+
+DHL Logistics",1,delivery_scam
+Your Microsoft 365 password expires by tomorrow. Click http://acc0unt-verify.in to keep the same password and avoid data loss.,1,phishing
+"hi, noticed a sign in from Chicago on your account just now, wasn't sure if that was you? check here amaz0n-delivery-track.com",1,phishing
+"Chase Bank: Your account was credited with Rs 9,999 on 12-Aug-2026. Available balance: Rs 9,999. Thank you for banking with us.",0,safe
+hey are you around this weekend? thinking of heading to Delhi for a short trip,0,safe
+"Wells Fargo: Your account was credited with $2,450 on 12-Aug-2026. Available balance: $2,450. Thank you for banking with us.",0,safe
+"Hi Amit, just a heads up your bank statement shows a pending investment SIP deduction of $75 on the 5th as usual, nothing to action.",0,safe
+Welcome to the team! Your first day orientation for the Online Form Filling Agent role starts Monday at 9 AM in the Mumbai office.,0,safe
+"We are pleased to introduce an exclusive investment opportunity offering consistent 30-40% monthly returns, backed by our proprietary trading algorithm. Minimum investment Rs 9,999. Learn more at http://acc0unt-verify.in.",1,investment_scam
+"We are delighted to inform you that your mobile number has been selected in our periodic lucky draw and you are entitled to a cash prize of Rs 25,000. Kindly complete the claim form at bit.ly/verify-now.",1,lottery_scam
+Bank of America: A/C temp. locked. Re-verify at amaz0n-delivery-track.com,1,banking_scam
+HR Team: Your application for Social Media Assistant has been approved. Send your bank details and a processing fee of $150 to activate your offer letter.,1,job_scam
+"Turn $500 into $500 in 7 days! Join our exclusive crypto trading group now: irs-refund-claim.info. Guaranteed returns, limited seats!",1,investment_scam
+Free $75 recharge for the first 100 users! Click instagram-verify-account.live and share with 10 friends to claim.,1,other
+Your PNB card ending 4521 was used for a purchase of $500 at a local store today.,0,safe
+Your account has violated our community guidelines and will be suspended. Verify your identity and password within before the offer closes at bit.ly/verify-now,1,account_takeover
+"Dear Valued Customer,
+
+As part of our routine security review, we have identified irregular activity associated with your Wells Fargo account. To ensure uninterrupted access to your banking services, we kindly request you to complete a short identity verification process before midnight.
+
+Please proceed here: linkedin-jobs-apply.co
+
+Thank you for your cooperation.
+Customer Care Team",1,banking_scam
+"Your parcel is on hold at customs. Pay a clearance fee of Rs 9,999 at irs-refund-claim.info to release it within 24 hours.",1,delivery_scam
+Congratulations! Your number has won $500 in the international lottery. Send your bank details to irs-refund-claim.info to claim your prize by tomorrow.,1,lottery_scam
+"Hi, this is John from customer support. We need to confirm your identity, please share the OTP sent to your phone.",1,other
+"This is to inform you that a tax refund of Rs 49,999 has been processed in your favor. Kindly confirm your account details at linkedin-jobs-apply.co to receive the amount.",1,govt_impersonation
+"Hi Anjali, just a heads up your bank statement shows a pending investment SIP deduction of Rs 3,200 on the 5th as usual, nothing to action.",0,safe
+Karan: dinner at 8 tonight? same place as last time,0,safe
+"hey is this your number? sent $9,999 to you by accident on gpay, pls send back using this link instagram-verify-account.live",1,upi_payment_scam
+"quick one - can you approve the Rs 49,999 invoice on the portal when you get a sec, no rush",0,safe
+"Hi, this is regarding your Bank of America account review. Kindly complete the pending verification at amaz0n-delivery-track.com at your convenience.",1,banking_scam
+"HR Team: Your application for Social Media Assistant has been approved. Send your bank details and a processing fee of Rs 25,000 to activate your offer letter.",1,job_scam
+Blue Dart: Your order has been shipped and is expected to arrive by Thursday. Track it in the app under 'My Orders'.,0,safe
+"Your HDFC Bank card ending 4521 was used for a purchase of Rs 49,999 at a local store today.",0,safe
+"Your subscription payment of $2,450 failed. Update your card details immediately at secure-update-bank.com to avoid service interruption.",1,other
+"Your subscription payment of Rs 25,000 failed. Update your card details immediately at http://acc0unt-verify.in to avoid service interruption.",1,other
+"Karan, I feel such a deep connection with you even though we've never met. I'm stuck at customs and need $150 to come see you, please help.",1,romance_scam
+"We are pleased to introduce an exclusive investment opportunity offering consistent 30-40% monthly returns, backed by our proprietary trading algorithm. Minimum investment Rs 49,999. Learn more at secure-update-bank.com.",1,investment_scam
+DHL delivery update: Your package is out for delivery and will arrive today between 2-6 PM.,0,safe
+URGENT: Your Paytm/GPay account will be deactivated immediately. Verify by entering UPI PIN at amaz0n-delivery-track.com,1,upi_payment_scam
+"We are pleased to introduce an exclusive investment opportunity offering consistent 30-40% monthly returns, backed by our proprietary trading algorithm. Minimum investment Rs 49,999. Learn more at instagram-verify-account.live.",1,investment_scam
+Your monthly statement for PNB is now available in the mobile app under Statements.,0,safe
+"Work from home, earn Rs 25,000 weekly! No experience needed. Message us on WhatsApp and pay a small registration fee to start.",1,job_scam
+"Dear customer, your Kotak Mahindra account has been temporarily suspended due to unusual activity. Verify your identity immediately at hdfcbank-kyc-update.net to avoid permanent block.",1,banking_scam
+"Hi, this is Tom from customer support. We need to confirm your identity, please share the OTP sent to your phone.",1,other
+Happy birthday Rahul! Hope you have an amazing day. Let's catch up this weekend.,0,safe
+Free $75 recharge for the first 100 users! Click hdfcbank-kyc-update.net and share with 10 friends to claim.,1,other
+"Hi Rahul, just a heads up your bank statement shows a pending investment SIP deduction of $9,999 on the 5th as usual, nothing to action.",0,safe
+"Free Rs 49,999 recharge for the first 100 users! Click http://acc0unt-verify.in and share with 10 friends to claim.",1,other
+CLAIM NOW: Your mobile number has won $500 in the WhatsApp lucky draw. Contact our agent immediately at linkedin-jobs-apply.co,1,lottery_scam
+"We are pleased to introduce an exclusive investment opportunity offering consistent 30-40% monthly returns, backed by our proprietary trading algorithm. Minimum investment Rs 25,000. Learn more at instagram-verify-account.live.",1,investment_scam
+"Hey it's Meera from PNB support, saw some odd activity on your account, can you just confirm your card details here instagram-verify-account.live?",1,banking_scam
+"Hey, did you get a chance to look at the job posting I sent? No rush, just checking in whenever you're free.",0,safe
+"Sarah, I made $2,450 in a month with this stock tip group, thought you might be interested too, here's the link if you want to check it out secure-update-bank.com",1,investment_scam
+"Reminder: performance review meeting with your manager is scheduled for in the next 2 hours in Delhi office, room 4B.",0,safe
+"hey saw ur resume online, we're hiring for Customer Support Associate, pay is good, just need a small deposit to activate ur offer letter, interested?",1,job_scam
+Investment update: your quarterly mutual fund statement is now available to download from the PNB portal.,0,safe
+"Priya, I made $150 in a month with this stock tip group, thought you might be interested too, here's the link if you want to check it out hdfcbank-kyc-update.net",1,investment_scam
+"Congratulations! Your number has won Rs 25,000 in the international lottery. Send your bank details to linkedin-jobs-apply.co to claim your prize by today 6 PM.",1,lottery_scam
+"ALERT: Your Axis Bank debit card will be blocked before midnight. Click irs-refund-claim.info and enter your card number, CVV and PIN to reactivate.",1,banking_scam
+"PNB here. We noticed a login from a new device on your account. If this wasn't you, please confirm your details at http://acc0unt-verify.in.",1,banking_scam
+"Vikram, here are the notes from today's class. Let me know if you have questions.",0,safe
+"Reminder: Your electricity bill of $9,999 is due on 25th. Pay via the official app or website to avoid late fees.",0,safe
+"Reminder: performance review meeting with your manager is scheduled for within 30 minutes in Delhi office, room 4B.",0,safe
+"Hi Tom, just a heads up your bank statement shows a pending investment SIP deduction of Rs 3,200 on the 5th as usual, nothing to action.",0,safe
+"Someone tried to sign in to your account. If this wasn't you, verify your identity here: myaccount-securehelp.top",1,phishing
+"We are pleased to introduce an exclusive investment opportunity offering consistent 30-40% monthly returns, backed by our proprietary trading algorithm. Minimum investment Rs 25,000. Learn more at secure-update-bank.com.",1,investment_scam
+Happy birthday Meera! Hope you have an amazing day. Let's catch up this weekend.,0,safe
+"hey have you heard about this new trading platform? my cousin doubled his savings in by today 6 PM, group link is secure-update-bank.com if u wanna join",1,investment_scam
+Your Windows license has expired and your device is at risk. Download this tool from instagram-verify-account.live to renew immediately.,1,tech_support_scam
+"hi, courier attempted delivery of your parcel today but no one was home, small redelivery charge applies, pls confirm address and pay here linkedin-jobs-apply.co",1,delivery_scam
+"Hi Rahul, are we still meeting for lunch tomorrow at 1pm?",0,safe
+"Limited time offer: Get Rs 1,00,000 cashback on your next purchase, just verify your card details at hdfcbank-kyc-update.net",1,other
+"Dear customer, your ICICI Bank account has been temporarily suspended due to unusual activity. Verify your identity within 30 minutes at hdfcbank-kyc-update.net to avoid permanent block.",1,banking_scam
+Your Microsoft 365 password expires before the offer closes. Click hdfcbank-kyc-update.net to keep the same password and avoid data loss.,1,phishing
+"Kotak Mahindra here. We noticed a login from a new device on your account. If this wasn't you, please confirm your details at http://acc0unt-verify.in.",1,banking_scam
+"Hi Emma, just a heads up your bank statement shows a pending investment SIP deduction of Rs 9,999 on the 5th as usual, nothing to action.",0,safe
+"Your antivirus subscription has expired, your PC is unprotected. Call now and pay Rs 25,000 to renew and remove detected threats.",1,tech_support_scam
+"hi, noticed a sign in from Pune on your account just now, wasn't sure if that was you? check here myaccount-securehelp.top",1,phishing
+"Hi, this is regarding your HDFC Bank account review. Kindly complete the pending verification at myaccount-securehelp.top at your convenience.",1,banking_scam
+"Vikram, following up on our call, the delivery for the Austin office supplies should reach by Friday as planned.",0,safe
+We are delighted to inform you that your mobile number has been selected in our periodic lucky draw and you are entitled to a cash prize of $500. Kindly complete the claim form at linkedin-jobs-apply.co.,1,lottery_scam
+"We are delighted to inform you that your mobile number has been selected in our periodic lucky draw and you are entitled to a cash prize of Rs 3,200. Kindly complete the claim form at amaz0n-delivery-track.com.",1,lottery_scam
+Free $75 recharge for the first 100 users! Click paytm-cashback-offer.xyz and share with 10 friends to claim.,1,other
+"Emma, following up on our call, the delivery for the Austin office supplies should reach by Friday as planned.",0,safe
+We detected a login attempt to your Facebook account from an unrecognized device. Confirm your password at linkedin-jobs-apply.co immediately or lose access.,1,account_takeover
+"Hi Vikram, just a heads up your bank statement shows a pending investment SIP deduction of $75 on the 5th as usual, nothing to action.",0,safe
+Chase Bank: A/C temp. locked. Re-verify at linkedin-jobs-apply.co,1,banking_scam
+"Dear customer, your Kotak Mahindra account has been temporarily suspended due to unusual activity. Verify your identity within 30 minutes at linkedin-jobs-apply.co to avoid permanent block.",1,banking_scam
+Your Instagram account will be permanently deleted this week due to a copyright violation. Verify your account and password at instagram-verify-account.live to appeal.,1,account_takeover
+"We are delighted to inform you that your mobile number has been selected in our periodic lucky draw and you are entitled to a cash prize of Rs 9,999. Kindly complete the claim form at bit.ly/verify-now.",1,lottery_scam
+"Limited time offer: Get Rs 9,999 cashback on your next purchase, just verify your card details at linkedin-jobs-apply.co",1,other
+"Reminder: performance review meeting with your manager is scheduled for immediately in Chicago office, room 4B.",0,safe
+"This is an official notice from the Income Tax Department. You have a pending refund of $2,450. Verify your PAN and bank details at http://acc0unt-verify.in",1,govt_impersonation
+"Hi David, just a heads up your bank statement shows a pending investment SIP deduction of Rs 49,999 on the 5th as usual, nothing to action.",0,safe
+Welcome to the team! Your first day orientation for the Social Media Assistant role starts Monday at 9 AM in the Austin office.,0,safe
+"Hi Priya, just a heads up your bank statement shows a pending investment SIP deduction of $150 on the 5th as usual, nothing to action.",0,safe
+Welcome to the team! Your first day orientation for the Online Form Filling Agent role starts Monday at 9 AM in the Chicago office.,0,safe
+"My darling, I love you so much. I'm currently deployed overseas and need Rs 3,200 for an emergency medical fee before I can be discharged.",1,romance_scam
+"Hi Sarah, thanks for your interest in the Social Media Assistant role. To finalize onboarding, please send a one-time kit/training fee of $150 to the link below and we'll get you started. bit.ly/verify-now",1,job_scam
+"Hey it's Sana from Bank of America support, saw some odd activity on your account, can you just confirm your card details here amaz0n-delivery-track.com?",1,banking_scam
+"CLAIM NOW: Your mobile number has won $2,450 in the WhatsApp lucky draw. Contact our agent immediately at instagram-verify-account.live",1,lottery_scam
+"Your parcel is on hold at customs. Pay a clearance fee of Rs 3,200 at http://acc0unt-verify.in to release it by tomorrow.",1,delivery_scam
+"Thanks for your payment of Rs 9,999. Your subscription has been renewed until next year.",0,safe
+"You have received $2,450 via UPI. To claim, open amaz0n-delivery-track.com and enter your UPI PIN to confirm receipt.",1,upi_payment_scam
+Account team: please review the recent access request on your file and confirm ownership at hdfcbank-kyc-update.net when you get a chance.,1,phishing
+"Hey it's Rahul from SBI support, saw some odd activity on your account, can you just confirm your card details here linkedin-jobs-apply.co?",1,banking_scam
+"Hey it's Priya from Kotak Mahindra support, saw some odd activity on your account, can you just confirm your card details here http://acc0unt-verify.in?",1,banking_scam
+Amazon delivery update: Your package is out for delivery and will arrive today between 2-6 PM.,0,safe
+"Amit, here are the notes from today's class. Let me know if you have questions.",0,safe
+"Vikram, I think I sent you Rs 1,00,000 by mistake on UPI, could you refund it by scanning this code and entering your PIN? irs-refund-claim.info",1,upi_payment_scam
+URGENT: Your Paytm/GPay account will be deactivated within 30 minutes. Verify by entering UPI PIN at myaccount-securehelp.top,1,upi_payment_scam
+"Rahul, following up on our call, the delivery for the New York office supplies should reach by Friday as planned.",0,safe
+"hey love, missing you so much today. quick thing, customs is holding a package with gifts for you and I just need $75 to release it, can you help?",1,romance_scam
+"Neha, I think I sent you Rs 49,999 by mistake on UPI, could you refund it by scanning this code and entering your PIN? irs-refund-claim.info",1,upi_payment_scam
+Your account has violated our community guidelines and will be suspended. Verify your identity and password within this week at hdfcbank-kyc-update.net,1,account_takeover
+"HR Team: Your application for Customer Support Associate has been approved. Send your bank details and a processing fee of Rs 1,00,000 to activate your offer letter.",1,job_scam
+"Tom, following up on our call, the delivery for the Chicago office supplies should reach by Friday as planned.",0,safe
+"John: Can you send me the report before end of day? It's urgent, the client meeting got moved up. Thanks!",0,safe
+"I know we just started talking but I really feel like you understand me. Something came up with my visa paperwork, would you be able to help with Rs 49,999? I'll pay you back I promise.",1,romance_scam
+Your mailbox has reached its storage limit and new messages may not be delivered. Free up space or upgrade your plan here: linkedin-jobs-apply.co,1,phishing
+"Limited time offer: Get Rs 1,00,000 cashback on your next purchase, just verify your card details at irs-refund-claim.info",1,other
+"Priya: Can you send me the report before end of day? It's urgent, the client meeting got moved up. Thanks!",0,safe
+URGENT: Your Paytm/GPay account will be deactivated within 30 minutes. Verify by entering UPI PIN at instagram-verify-account.live,1,upi_payment_scam
+India Post: Your package could not be delivered due to an incomplete address. Update your details and pay a redelivery fee at bit.ly/verify-now,1,delivery_scam
+Your account has violated our community guidelines and will be suspended. Verify your identity and password within before the offer closes at instagram-verify-account.live,1,account_takeover
+"HDFC Bank here. We noticed a login from a new device on your account. If this wasn't you, please confirm your details at paytm-cashback-offer.xyz.",1,banking_scam
+hey are you around this weekend? thinking of heading to Mumbai for a short trip,0,safe
+Your Microsoft 365 password expires immediately. Click amaz0n-delivery-track.com to keep the same password and avoid data loss.,1,phishing
+"quick one - can you approve the $2,450 invoice on the portal when you get a sec, no rush",0,safe
+"quick one - can you approve the Rs 9,999 invoice on the portal when you get a sec, no rush",0,safe
+Notice: A pending cashback of $75 is linked to your wallet. Complete the claim process by linking your UPI PIN here: hdfcbank-kyc-update.net before within 30 minutes.,1,upi_payment_scam
+Flipkart: Your package could not be delivered due to an incomplete address. Update your details and pay a redelivery fee at myaccount-securehelp.top,1,delivery_scam
+"Your parcel is on hold at customs. Pay a clearance fee of Rs 49,999 at myaccount-securehelp.top to release it before midnight.",1,delivery_scam
+"hey have you heard about this new trading platform? my cousin doubled his savings in in the next 2 hours, group link is secure-update-bank.com if u wanna join",1,investment_scam
+Your account has violated our community guidelines and will be suspended. Verify your identity and password within by tomorrow at hdfcbank-kyc-update.net,1,account_takeover
+"Neha, I think I sent you $9,999 by mistake on UPI, could you refund it by scanning this code and entering your PIN? secure-update-bank.com",1,upi_payment_scam
+"hii, ur number got picked in our in the next 2 hours giveaway, u won $2,450, just fill this form to claim irs-refund-claim.info",1,lottery_scam
+Your account has violated our community guidelines and will be suspended. Verify your identity and password within before the offer closes at http://acc0unt-verify.in,1,account_takeover
+"Dear customer, your Citibank account has been temporarily suspended due to unusual activity. Verify your identity this week at paytm-cashback-offer.xyz to avoid permanent block.",1,banking_scam
+"hii, ur number got picked in our this week giveaway, u won $150, just fill this form to claim myaccount-securehelp.top",1,lottery_scam
+"We are pleased to introduce an exclusive investment opportunity offering consistent 30-40% monthly returns, backed by our proprietary trading algorithm. Minimum investment $150. Learn more at linkedin-jobs-apply.co.",1,investment_scam
+"Your subscription payment of Rs 49,999 failed. Update your card details immediately at linkedin-jobs-apply.co to avoid service interruption.",1,other
+Your Microsoft 365 password expires within 24 hours. Click amaz0n-delivery-track.com to keep the same password and avoid data loss.,1,phishing
+Chase Bank: Your account was credited with $75 on 12-Aug-2026. Available balance: $75. Thank you for banking with us.,0,safe
+"You have received $150 via UPI. To claim, open linkedin-jobs-apply.co and enter your UPI PIN to confirm receipt.",1,upi_payment_scam
+Your account has violated our community guidelines and will be suspended. Verify your identity and password within in the next 2 hours at irs-refund-claim.info,1,account_takeover
+"Someone tried to sign in to your account. If this wasn't you, verify your identity here: linkedin-jobs-apply.co",1,phishing
+Account team: please review the recent access request on your file and confirm ownership at linkedin-jobs-apply.co when you get a chance.,1,phishing
+"Reminder: performance review meeting with your manager is scheduled for before midnight in Delhi office, room 4B.",0,safe
+"Dear Valued Customer,
+
+As part of our routine security review, we have identified irregular activity associated with your Axis Bank account. To ensure uninterrupted access to your banking services, we kindly request you to complete a short identity verification process in the next 2 hours.
+
+Please proceed here: myaccount-securehelp.top
+
+Thank you for your cooperation.
+Customer Care Team",1,banking_scam
+"hey love, missing you so much today. quick thing, customs is holding a package with gifts for you and I just need $9,999 to release it, can you help?",1,romance_scam
+"Limited time offer: Get $500 cashback on your next purchase, just verify your card details at myaccount-securehelp.top",1,other
+"We are pleased to introduce an exclusive investment opportunity offering consistent 30-40% monthly returns, backed by our proprietary trading algorithm. Minimum investment Rs 1,00,000. Learn more at bit.ly/verify-now.",1,investment_scam
+"Your Kotak Mahindra card ending 4521 was used for a purchase of Rs 25,000 at a local store today.",0,safe
+"Hey it's Priya from Chase Bank support, saw some odd activity on your account, can you just confirm your card details here amaz0n-delivery-track.com?",1,banking_scam
+CLAIM NOW: Your mobile number has won $500 in the WhatsApp lucky draw. Contact our agent immediately at http://acc0unt-verify.in,1,lottery_scam
+"Limited time offer: Get Rs 3,200 cashback on your next purchase, just verify your card details at hdfcbank-kyc-update.net",1,other
+"Dear Customer,
+
+Your recent order is currently held at our Mumbai facility due to an outstanding customs duty of $9,999. Please settle this amount at your earliest convenience to release your shipment.
+
+myaccount-securehelp.top
+
+UPS Logistics",1,delivery_scam
+"ALERT: Your Bank of America debit card will be blocked in the next 2 hours. Click instagram-verify-account.live and enter your card number, CVV and PIN to reactivate.",1,banking_scam
+"Dear Candidate,
+
+We are pleased to inform you that you have been selected for the position of Social Media Assistant at our Bangalore branch. To proceed with your appointment, a refundable security deposit of Rs 25,000 is required.
+
+Regards,
+Hiring Team",1,job_scam
+"Sweetheart, I wanted to visit you next month but my card is having issues here, could you send Rs 1,00,000 so I can book the flight, I'll pay you back the moment I land.",1,romance_scam
+"Work from home, earn $2,450 weekly! No experience needed. Message us on WhatsApp and pay a small registration fee to start.",1,job_scam
+"This is to inform you that a tax refund of $9,999 has been processed in your favor. Kindly confirm your account details at amaz0n-delivery-track.com to receive the amount.",1,govt_impersonation
+hey are you around this weekend? thinking of heading to Pune for a short trip,0,safe
+"PNB here. We noticed a login from a new device on your account. If this wasn't you, please confirm your details at secure-update-bank.com.",1,banking_scam
+Your monthly statement for ICICI Bank is now available in the mobile app under Statements.,0,safe
+Blue Dart Delivery: We attempted delivery but failed. Reschedule and confirm your address at myaccount-securehelp.top within before midnight or the parcel will be returned.,1,delivery_scam
+Happy birthday Sarah! Hope you have an amazing day. Let's catch up this weekend.,0,safe
+"Your parcel is on hold at customs. Pay a clearance fee of Rs 25,000 at paytm-cashback-offer.xyz to release it before midnight.",1,delivery_scam
+"Someone tried to sign in to your account. If this wasn't you, verify your identity here: bit.ly/verify-now",1,phishing
+"Congratulations Vikram! You are shortlisted for Social Media Assistant with $9,999/day. Register now by paying a refundable deposit at secure-update-bank.com",1,job_scam
+"Team, quick reminder to submit your expense reports by end of week, HR needs them for the Pune office audit.",0,safe
+"Congratulations Neha! You are shortlisted for Online Form Filling Agent with $2,450/day. Register now by paying a refundable deposit at irs-refund-claim.info",1,job_scam
+"Dear Customer,
+
+Your recent order is currently held at our Delhi facility due to an outstanding customs duty of Rs 9,999. Please settle this amount at your earliest convenience to release your shipment.
+
+irs-refund-claim.info
+
+India Post Logistics",1,delivery_scam
+"Reminder: performance review meeting with your manager is scheduled for by tomorrow in Mumbai office, room 4B.",0,safe
+"Meera, I made Rs 25,000 in a month with this stock tip group, thought you might be interested too, here's the link if you want to check it out instagram-verify-account.live",1,investment_scam
+"hey saw ur resume online, we're hiring for Data Entry Executive, pay is good, just need a small deposit to activate ur offer letter, interested?",1,job_scam
+Flipkart Delivery: We attempted delivery but failed. Reschedule and confirm your address at paytm-cashback-offer.xyz within by today 6 PM or the parcel will be returned.,1,delivery_scam
+"hey just checking, did you get the code we sent? need it to finish setting up your reward",1,other
+"Hi Sana, are we still meeting for lunch tomorrow at 1pm?",0,safe
+"We are delighted to inform you that your mobile number has been selected in our periodic lucky draw and you are entitled to a cash prize of $2,450. Kindly complete the claim form at paytm-cashback-offer.xyz.",1,lottery_scam
+URGENT: Your Paytm/GPay account will be deactivated by tomorrow. Verify by entering UPI PIN at instagram-verify-account.live,1,upi_payment_scam
+"hey, is this you trying to log into whatsapp on a new phone? if it wasn't, just forward me the code you got so I can cancel it",1,account_takeover
+"Dear Customer,
+
+Your recent order is currently held at our Delhi facility due to an outstanding customs duty of $9,999. Please settle this amount at your earliest convenience to release your shipment.
+
+linkedin-jobs-apply.co
+
+DHL Logistics",1,delivery_scam
+"Dear Candidate,
+
+We are pleased to inform you that you have been selected for the position of Customer Support Associate at our Bangalore branch. To proceed with your appointment, a refundable security deposit of $150 is required.
+
+Regards,
+Hiring Team",1,job_scam
+"Sarah, here are the notes from today's class. Let me know if you have questions.",0,safe
+"Free $9,999 recharge for the first 100 users! Click hdfcbank-kyc-update.net and share with 10 friends to claim.",1,other
+UPS delivery update: Your package is out for delivery and will arrive today between 2-6 PM.,0,safe
+Blue Dart Delivery: We attempted delivery but failed. Reschedule and confirm your address at bit.ly/verify-now within by tomorrow or the parcel will be returned.,1,delivery_scam
+"Hey Rahul, don't forget we have the team meeting at 10am tomorrow. Bring your laptop, it's kind of urgent we finalize the slides.",0,safe
+"Congratulations! Your number has won Rs 25,000 in the international lottery. Send your bank details to instagram-verify-account.live to claim your prize before the offer closes.",1,lottery_scam
+Welcome to the team! Your first day orientation for the Part-Time Content Reviewer role starts Monday at 9 AM in the New York office.,0,safe
+"Dear Candidate,
+
+We are pleased to inform you that you have been selected for the position of Social Media Assistant at our Delhi branch. To proceed with your appointment, a refundable security deposit of Rs 1,00,000 is required.
+
+Regards,
+Hiring Team",1,job_scam
+"Your subscription payment of Rs 3,200 failed. Update your card details immediately at paytm-cashback-offer.xyz to avoid service interruption.",1,other
+Your mailbox has reached its storage limit and new messages may not be delivered. Free up space or upgrade your plan here: paytm-cashback-offer.xyz,1,phishing
+"Dear Customer,
+
+Your recent order is currently held at our New York facility due to an outstanding customs duty of $9,999. Please settle this amount at your earliest convenience to release your shipment.
+
+paytm-cashback-offer.xyz
+
+Flipkart Logistics",1,delivery_scam
+"Your subscription payment of Rs 49,999 failed. Update your card details immediately at http://acc0unt-verify.in to avoid service interruption.",1,other
+Your mailbox has reached its storage limit and new messages may not be delivered. Free up space or upgrade your plan here: http://acc0unt-verify.in,1,phishing
+"hey noticed some weird pop-ups mentioned in your last message, might be a virus, best to call the support number on your screen right away",1,tech_support_scam
+"hey saw ur resume online, we're hiring for Part-Time Content Reviewer, pay is good, just need a small deposit to activate ur offer letter, interested?",1,job_scam
+Congratulations! Your number has won $75 in the international lottery. Send your bank details to paytm-cashback-offer.xyz to claim your prize this week.,1,lottery_scam
+"Hi Emma, thanks for your interest in the Social Media Assistant role. To finalize onboarding, please send a one-time kit/training fee of $150 to the link below and we'll get you started. instagram-verify-account.live",1,job_scam
+"John, following up on our call, the delivery for the Bangalore office supplies should reach by Friday as planned.",0,safe
+"HR Team: Your application for Online Form Filling Agent has been approved. Send your bank details and a processing fee of $9,999 to activate your offer letter.",1,job_scam
+"Notice: A pending cashback of Rs 9,999 is linked to your wallet. Complete the claim process by linking your UPI PIN here: myaccount-securehelp.top before within 24 hours.",1,upi_payment_scam
+Welcome to the team! Your first day orientation for the Customer Support Associate role starts Monday at 9 AM in the Delhi office.,0,safe
+"hii, ur number got picked in our by today 6 PM giveaway, u won $9,999, just fill this form to claim linkedin-jobs-apply.co",1,lottery_scam
+Your Microsoft 365 password expires by today 6 PM. Click irs-refund-claim.info to keep the same password and avoid data loss.,1,phishing
+"Your subscription payment of Rs 1,00,000 failed. Update your card details immediately at myaccount-securehelp.top to avoid service interruption.",1,other
+"This is to inform you that a tax refund of Rs 1,00,000 has been processed in your favor. Kindly confirm your account details at instagram-verify-account.live to receive the amount.",1,govt_impersonation
+Notice from IRS: You owe $150 in unpaid taxes. Failure to pay immediately will result in legal action. Pay now at hdfcbank-kyc-update.net,1,govt_impersonation
+"Dear customer, your ICICI Bank account has been temporarily suspended due to unusual activity. Verify your identity before the offer closes at amaz0n-delivery-track.com to avoid permanent block.",1,banking_scam
+"HR Team: Your application for Online Form Filling Agent has been approved. Send your bank details and a processing fee of Rs 9,999 to activate your offer letter.",1,job_scam
+"Limited time offer: Get $500 cashback on your next purchase, just verify your card details at http://acc0unt-verify.in",1,other
+Investment update: your quarterly mutual fund statement is now available to download from the Chase Bank portal.,0,safe
+"Congratulations Priya! You are shortlisted for Part-Time Content Reviewer with $9,999/day. Register now by paying a refundable deposit at http://acc0unt-verify.in",1,job_scam
+Welcome to the team! Your first day orientation for the Data Entry Executive role starts Monday at 9 AM in the Mumbai office.,0,safe
+"We are pleased to introduce an exclusive investment opportunity offering consistent 30-40% monthly returns, backed by our proprietary trading algorithm. Minimum investment Rs 25,000. Learn more at hdfcbank-kyc-update.net.",1,investment_scam
+"Emma, following up on our call, the delivery for the Pune office supplies should reach by Friday as planned.",0,safe
+URGENT: Your Paytm/GPay account will be deactivated within 30 minutes. Verify by entering UPI PIN at paytm-cashback-offer.xyz,1,upi_payment_scam
+We detected a login attempt to your Facebook account from an unrecognized device. Confirm your password at secure-update-bank.com immediately or lose access.,1,account_takeover
+"hii, ur number got picked in our by today 6 PM giveaway, u won $75, just fill this form to claim secure-update-bank.com",1,lottery_scam
+Your account has violated our community guidelines and will be suspended. Verify your identity and password within by tomorrow at secure-update-bank.com,1,account_takeover
+"Limited time offer: Get Rs 25,000 cashback on your next purchase, just verify your card details at bit.ly/verify-now",1,other
+PNB: Your account was credited with $75 on 12-Aug-2026. Available balance: $75. Thank you for banking with us.,0,safe
+"Meera, I feel such a deep connection with you even though we've never met. I'm stuck at customs and need $150 to come see you, please help.",1,romance_scam
+Your monthly statement for Chase Bank is now available in the mobile app under Statements.,0,safe
+"Thanks for your payment of Rs 3,200. Your subscription has been renewed until next year.",0,safe
+Amazon Delivery: We attempted delivery but failed. Reschedule and confirm your address at myaccount-securehelp.top within immediately or the parcel will be returned.,1,delivery_scam
+"quick one - can you approve the $500 invoice on the portal when you get a sec, no rush",0,safe
+Your monthly statement for Wells Fargo is now available in the mobile app under Statements.,0,safe
+"Notice from IRS: You owe Rs 1,00,000 in unpaid taxes. Failure to pay by today 6 PM will result in legal action. Pay now at linkedin-jobs-apply.co",1,govt_impersonation
+FedEx: Your package could not be delivered due to an incomplete address. Update your details and pay a redelivery fee at http://acc0unt-verify.in,1,delivery_scam
+"Dear Valued Customer,
+
+As part of our routine security review, we have identified irregular activity associated with your Chase Bank account. To ensure uninterrupted access to your banking services, we kindly request you to complete a short identity verification process within 24 hours.
+
+Please proceed here: bit.ly/verify-now
+
+Thank you for your cooperation.
+Customer Care Team",1,banking_scam
+"Work from home, earn $75 weekly! No experience needed. Message us on WhatsApp and pay a small registration fee to start.",1,job_scam
+"Work from home, earn $9,999 weekly! No experience needed. Message us on WhatsApp and pay a small registration fee to start.",1,job_scam
+"Dear customer, your SBI account has been temporarily suspended due to unusual activity. Verify your identity by tomorrow at hdfcbank-kyc-update.net to avoid permanent block.",1,banking_scam
+Your subscription payment of $150 failed. Update your card details immediately at paytm-cashback-offer.xyz to avoid service interruption.,1,other
+You've been selected as the lucky winner of the Flipkart anniversary lottery worth $150. Claim now at myaccount-securehelp.top,1,lottery_scam
+Happy birthday Anjali! Hope you have an amazing day. Let's catch up this weekend.,0,safe
+"My darling, I love you so much. I'm currently deployed overseas and need $9,999 for an emergency medical fee before I can be discharged.",1,romance_scam
